@@ -1,0 +1,721 @@
+<h1> AI Builders Digest 今日热点快报</h1><br>
+<p><strong>{日期1}(UTC+8)</strong></p><br>
+<hr><br>
+<h2>导读｜从秋季科技展看见日常生活的新变化</h2><br>
+<p>九月的科技展会，为观察日常生活的新变化提供了一扇窗口。2026年9月4日至8日举行的柏林国际电子消费品展，集中展示了人工智能、智能家居与机器人应用。主办方9月7日的报道将目光投向厨房、家庭清洁和庭院养护，讨论设备怎样减少繁琐设置、改善使用体验，以及更有效地利用能源和水资源。</p><br><br>
+<p>数字内容创作也是本届展会的讨论重点。主办方9月6日的报道介绍了人工智能辅助工作流程、专业制作技术及创作者经营方式等议题。参与相关讨论的两位嘉宾，对人工智能能否真正节省时间看法并不完全相同，但都强调人工判断和信任的重要性。生成速度之外，内容是否经过核对、是否值得阅读，同样需要认真对待。</p><br><br>
+<p>这些新闻给本文提供了一个观察角度：不只看技术展示有多新奇，更看它与普通人的工作和生活怎样衔接。阅读接下来的生活话题时，可以把注意力放在使用门槛、长期成本和真实体验上。新设备是否更容易操作，新服务能否减少等待，新工具有没有增加额外负担，都是值得继续追问的问题。从具体场景出发，既保留对创新的好奇，也不急于把展会上的设想当作已经普及的现实。</p><br><br>
+<!-- 导读事实参考：IFA主办方，{日期2}，IFA 2026: From AI in the Home to Autonomous Robotic Lawnmowers；{日期2}，IFA 2026 places greater focus on the creator economy。导读末段为编者观察。 -->
+<hr><br>
+<h2>一、观察当下｜生活方式出现新变化正在升温，为何能引起不同群体共鸣</h2><br>
+<h3>赛力斯科技刘宗成：汽车产业最大的风险不是慢，而是速成</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/03eb609b00342c50d6e3053eb7eb3017644cbffb?/1276=esQ </p><br><br>
+<h3>网易有道因“存在个人信息收集使用”问题被通报</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/aada3e8ff1ff8ca53428707d53bb2fa8cc1f5257?/1247=pKE </p><br><br>
+<h3>内存成本大降！华为鲲鹏底层优化：大数据内存需求仅原来75%</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/4159871235f60492d741c0a14b0070689460189e?/2161=yhN </p><br><br>
+<h3>资金缺口太大堵不上 曝大众汽车提议保时捷再裁掉4000人</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/49703baeb10f1cc5e00d5ed5c1b3a21714724067?/2873=GOR </p><br><br>
+<h3>当一部手机价格够买整套家电 消费者开始重新算账</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/c0a716aee04da7c068dcaa9298ae1532d38b4f48?/8366=CSE </p><br><br>
+<h3>Olight 推出 ArkTac 系列专业手电筒：至高提供 1800 流明亮度、内置紫外线灯 / 绿色激光功能</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/0cbe2c4e47e6fde2a90e52798b21019194926dae?/6935=Rui </p><br><br>
+<h3>俄罗斯“进步MS-35”货运飞船与国际空间站对接</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/60ed4c479cc3b362a077c58b2a74c586fe411e72?/0276=Trg </p><br><br>
+<h3>阿那亚突发大停电，官方回应：园区外线路故障所致，正抓紧抢修</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/765cce6584ba2060153f7e87a596feec651e1c33?/9022=Moi </p><br><br>
+<h3>比亚迪第二代腾势 D9 车型 OTA 升级，AI 超级智能体“迪迪虾”上新</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/c60e8e5a83fdb8bbc9e93e0c6072913c026aefd6?/0765=sos </p><br><br>
+<h3>影石纽约时代广场直营店正式开业，X6含税价较国内高约1100元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/a109e02b5449b2055f98814ec62a57f8ac21a4a9?/3008=QVH </p><br><br>
+<h3>百度地图张朝远：两轮车用户对地图需求排在TOP3，如果一辆两轮车没有地图导航能力 很难说它是真的智能</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/d6d7cb39741ced456e34f8702c9d42777610e1d0?/1969=VNi </p><br><br>
+<h3>京东邢洪梅：感谢张雪，是他让中国摩托车用户又燃起了当年的机车梦</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/ac8b3feb797b3b28b87f5f21f5fd1fab9f691c72?/5585=FdZ </p><br><br>
+<h3>百度地图张朝远：两轮车用户对地图需求排在TOP3，如果一辆两轮车没有地图导航能力，很难说它是真的智能</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/bc1e5e3aa6d21acd6858f883b115fe8b767a3222?/0319=ydL </p><br><br>
+<h3>奇瑞捷豹路虎神行者 8 开启交付：华为乾崑智驾 ADS 5，28.99 万元起</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/c9dbfb8b6aee0d9ed3c90ff1de735603e14deaa0?/8133=BIp </p><br><br>
+<h3>OpenAI CEO 奥尔特曼下周将出席联合国大会，向安理会作 AI 议题简报</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/5248811c70f83f4202869971a1d41d6f4c1d928b?/7970=LSu </p><br><br>
+<h3>Keeway集团副总裁鲍正勤：在海外踩了很多坑，一些新兴市场前几年都是巨额亏损</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/45d64acb2fd4893fc2a1983085dcceb86da5b397?/3475=COe </p><br><br>
+<h3>欣旺达动力：预计到 2027 年年底将建成 1 万个兆瓦闪充站，适配多品牌车型</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e426b8fa25644c2b4e0c7d19b5935fbb7a557a2b?/5246=qAL </p><br><br>
+<h3>360联合昇腾AI打造AI Agent方案，多智能体协作效率提升6倍</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/f9d37e4eb2b87941ac9c3cef0b0bcbd84d0f0471?/1128=Csl </p><br><br>
+<h3>全新猛士 M817 获推 OTA 升级，带来华为乾崑智驾 ADS 5</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/f1eb2bc050673f2856f2d5c58c30f0231a6b1348?/2291=MdI </p><br><br>
+<h3>凯越机车总经理赵洪：做赛事如果只为了上电视打广告没有意义，把赛事做成研发的一部分才是长期资产</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/c0b6695444563dd3d32c4f03bb9b6add8d4a07bd?/1006=wzn </p><br><br>
+<h3>腾讯元宝鸿蒙版 1.0.0.123 上架尝鲜，支持快速回答、深度思考等</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/60047fc485f0042227e71de841152fcf6942eb3d?/4702=akg </p><br><br>
+<h3>罗兰贝格徐虎雄：出海对二轮车玩家是发展的必答题，要在产品、渠道和供应链上进一步做深</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/94c80d34414d783b0b2868ac6e33a1fa62be2bde?/5557=tal </p><br><br>
+<h3>苹果首款折叠 iPhone Duo 海外媒体评论汇总：CNET 称希望有“单屏版 Duo”</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/0eb580b3575d0e541b8cf28affb4b34422522ef5?/9733=rxD </p><br><br>
+<h3>隆鑫通用董事长李耀：过去买摩托车问多少钱、几升油，现在年轻人问声浪够不够上头、发朋友圈够不够炸？</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/f52b0b3569aa1ccfc5d368b1cbc8cde5a94aa30c?/7140=Hbr </p><br><br>
+<h3>360与昇腾AI联合打造解决方案，面向AI Agent场景实现全面提速</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/3d6acd06a5c5e7a4ade40a545f35aeb5071b43d9?/9896=bpZ </p><br><br>
+<h3>问卷调查显示华为正在评估无屏幕健康手环产品</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/997802176731aea96f3bbcff2d05dbfdb2ce5536?/4626=SYJ </p><br><br>
+<h3>对话美国科学院院士何川：中国对科研投入与重视度领跑全球</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/b72b688c54d93547399610701af5f212aff9c05e?/9868=RdF </p><br><br>
+<h3>张雪：一场比赛要花费2000万到3000万元，只有在高手如云的竞争中，才能倒逼自己快速成长</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/fd1661fc4cd35aa12fb92e28be32ad5212cd9700?/4461=QLk </p><br><br>
+<h3>张雪机车发布五款车型，最贵卖13.8万元，张雪：国际品牌这个配置要卖150万，我们售价不到1/10</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/110fb1465083cc81a335b1b0694e80dbf488e33a?/3633=wwp </p><br><br>
+<h3>北京对四家在线酒店旅游预订平台立案调查，途家、美团、飞猪、同程回应</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/5ef829781e98a035b042bd5252235b3358d12e4d?/6087=Hoj </p><br><br>
+<h3>美国弗吉尼亚州宣布成立“人工智能工作组”，同步公布“数据中心问责框架”加强建设监管</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/af21c28dcaf65852f913f737246a91cab56124bc?/8933=YHL </p><br><br>
+<h3>美团：将积极配合监管部门调查，全面落实监管要求</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/12ca1885c5556e022852fa15d344689628be8cc7?/1963=Csd </p><br><br>
+<h3>途家：高度重视，将全力配合监管调查</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/16963cfdb2f3ca8a30957dfb483bbdb675abb583?/9991=FEU </p><br><br>
+<h3>飞猪：将积极配合北京市市场监督管理局的各项调查工作，全面落实监管要求</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/a422ef3496c2f455c9f2a56d47ec8d91ccddd0fb?/3051=BbA </p><br><br>
+<h3>施一公谈西湖大学科技评价标准：摒弃四唯、放弃科研量化指标、不设任何形式的科研奖励</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/8273725bd4f30d83615435fe39aa597f4ee4c03c?/1870=JUi </p><br><br>
+<h3>张雪摩托车宣布赛道 V5 发动机 2028 年落地，明年还要参加两大赛事</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/9f143f789ee1cc6c5f62fd806ae45318396d4ed2?/6456=xfA </p><br><br>
+<h3>同程：将积极配合监管部门开展工作，全面落实监管的各项要求</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/622a2c7c1f6bca3bd6c15ae20dfcc727096eb400?/5947=Apb </p><br><br>
+<h3>张雪：原定销量目标8月份已经提前完成，今年产销量有望达到10万台</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/07d9cde648d9ae6576d3e2a7969bf9db4b292392?/9966=NpQ </p><br><br>
+<h3>张雪机车亮相摩博会：五款车型同台首发，现场被观众围得水泄不通</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/128749f0f9372a2ba697cf1ae4920edad498b389?/0488=yER </p><br><br>
+<h3>薛其坤：需要全社会共同支持基础研究与前沿技术探索</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/ac9fd739e41145fc4fea4fe9333ec903351cbb03?/0304=YXJ </p><br><br>
+<h3>腾讯首席人才官奚丹：腾讯支持基础科研的决心不会改变</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/976a0b5722ccc5f156d5eb565863de469b5bd424?/1929=fqS </p><br><br>
+<h3>中国摩托车商会副会长刘欣：要坚定走智能化、绿色化、高端化发展路径，以技术迭代替代同质化低价竞争</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/38a2306e6d449f9a887a096558f5ef5318f7a7c6?/0055=YMA </p><br><br>
+<h3>网红烘焙品牌祐禾回应关店潮：商业正常现象，摒弃粗放式扩张</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/42c5d2266a0f6e212c777f8545c7bd2e3cd3c466?/8223=DYc </p><br><br>
+<h3>智谱ZCode回应数据上传争议：功能默认开启致数据上传，将开源代码</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/011e4b6062b08c701168b13c30ee392ce6028e57?/7233=ptC </p><br><br>
+<h3>小鹏G9L正式上市，23.18万元起</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/6f4adf9ad5a27fce072ab973c7a218f231be9e86?/8974=Rcl </p><br><br>
+<h3>Anthropic 计划将 IPO 推迟至 11 月，上市估值约 2 万亿美元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/b2f6c1d8e2623d544678d1d119564c1194744904?/2504=Iko </p><br><br>
+<h3>Awekeys 推出 RGB 透光金属键帽：可选 6 种配色、适用于全高 MX 风格轴体，169 美元起</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/31b09fd60c51fc1920fa11d2a30d4014504de31a?/2031=ojP </p><br><br>
+<h3>主导权换至赛力斯！华为商城“五界”品牌重新排序 问界被移至最后一位</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/7c87d07993705fec14a52c80420b2fc103207af8?/3106=ViI </p><br><br>
+<h3>谷歌首次公开 Gemini 越狱事件：在测试中自主入侵三家真实公司且自行终止，已通知涉事企业</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/2b7a0802e78a38e8e191ec8bd4aac70a9f15185a?/5980=nAs </p><br><br>
+<h3>Take-Two 因《NBA 2K》系列游戏遭诉讼，法庭证词暗示公司并未计划开发跨代作品虚拟货币转移功能</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/970ddefb953f8b40cce5117175e12c0df63cdd3f?/1614=dQh </p><br><br>
+<h3>谷歌AI首次“越狱”：Gemini在测试中入侵三家企业</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/79923edc3a53a326317e3dbeea1311f5d2b1aac1?/6661=ScF </p><br><br>
+<h3>黑暗奇幻动作 RPG《黎明行者之血》获业界好评，消息称本作开发成本仅约 4000 万美元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/1df244aa61a97a08955079fd8f22136fc96e4790?/4409=vHc </p><br><br>
+<h3>Anthropic推进上市筹备，年化营收料超1000亿美元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/8122a2f62acc11b0fa723a6659494c4017f4c97f?/2776=Toh </p><br><br>
+<h3>AI向科研端纵深渗透 重塑传统产业创新范式</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/922f3d3587b71c4bc6ae37d812cac281c2504cc9?/6965=ESt </p><br><br>
+<h3>具身智能规模化落地 渴望“好数据”</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/aa7b628cc52733f4b5469924cf2fd9f0db26cbd7?/4042=Jmq </p><br><br>
+<h3>MiniMax 宣布开源 MiniMax Code CLI</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/99eaee72cf265a6ebf03e6d216e89781dc86eac2?/7367=Qkv </p><br><br>
+<h3>总经理于长信“失联”多次缺席公司会议？一汽解放回应：目前正常履职</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/9a069cda4fa75c088d698b582400578d421f29c6?/7433=wMJ </p><br><br>
+<h3>华为徐钦松内部讲话曝光：明确要做好鸿蒙智行品牌，问界并未“完全脱钩”、“四界”主导权整合</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e45b07eaaea7f8b20fb89c6e1e0d0a7edf9af50d?/9912=hAp </p><br><br>
+<h3>闲鱼发布持续严打色情引流公告：今年已封号9.8万个</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/9f6254175f5b7e3239f76c5ed49cb56b849c2361?/3752=JwO </p><br><br>
+<h3>芯展速董事长孙丹：以存强算，全景覆盖，构建“云、边、端”三级数据基座</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/d4ff3e9272b11770dd9e5d72e5ec07d33922c39e?/4654=OZY </p><br><br>
+<h3>黄酒半年报|古越龙山被会稽山反超 营收加速下滑渠道仍在去库存？</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/db0c6c2563e9ac1dc18110ca5d20ee45cc52e9ae?/0696=HJg </p><br><br>
+<h3>黄酒半年报|会稽山成为行业龙头 招商驱动收入增长?</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/c1772434b25acf3854706742d870ab511f5ca0e0?/8614=iZx </p><br><br>
+<h3>华为发布“SCALE”伙伴支持体系，高级副总裁陈雷：推动更多成功经验走向规模化落地</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/aa14f78bb489b9b562c0689df95eefb8341acb9f?/4203=MbF </p><br><br>
+<h3>华为发布AI行业落地新路径，监事会副主席陶景文：智能演进的速度远远大于人类和行业适应AI的速度</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/14bad249bdf13c17e501603c833232c095c067b5?/5698=eZH </p><br><br>
+<h3>东京补贴加持 特斯拉售价低于古董劳力士</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/fb46caa0943225e27604702baad1796f33b6b799?/7873=CMk </p><br><br>
+<h3>钉钉创始人陈航担任百望股份非执行董事，年薪10万元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/13e51c262326a9665f39982d71fc89affec49225?/5638=PFn </p><br><br>
+<h3>京东物流陈佳：在部分环境恶劣的物流场景中，“非常愿意为机器人产品付费”</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e3348e1cb6a49e2780e474835cbe9dda87a03ae0?/4596=XjG </p><br><br>
+<h3>星动纪元邵剑飞：目前机器人产品能达到60-70分时，部分客户便愿意接受</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/74841d3b6790687cec5219ec7420a4adfca0c3e1?/2967=MiV </p><br><br>
+<h3>擎仓机器人程岩：物流供应链是具身智能产业落地最好的切入点</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e0796a171260a1c420ac486e28513a252b943376?/4230=yXn </p><br><br>
+<h3>炒菜声竟是录音？网红云南菜馆被曝用预制菜，门店否认：恶意抹黑</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/3990c95d94bf2a4fc11b0b645ee41382fc941b1b?/5473=JQP </p><br><br>
+<h3>比亚迪签约东润公益基金会 助力校园足球</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/1cb0ffde16845bb3e589f95d57ad41e75e75d94a?/1270=GDP </p><br><br>
+<h3>微亿智造张志琦：工业具身智能要“能把账算过来”</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/2c908792b18c8b38d2d781731d9a65fe5cb8d1e6?/7022=JiE </p><br><br>
+<h3>味多美一学徒曝带教师傅“不戴手套、不洗水果” 门店回应：不属实，因个人矛盾恶意抹黑</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/85c1c033c187998643a04a5c27b1b0045e24fcd8?/5130=ecu </p><br><br>
+<h3>灵心巧手周永：机器人发展可能在20年内走完计算机60年的历程</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/a838dd2f60a634c19e75c005c5321a6dfedac86b?/0300=BIc </p><br><br>
+<h3>智谱GLM-5.3-FlashX提价上线：推理速度翻5倍，提价至2.5倍</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/b959d348b7253150fe05e835cb04d6a370563ed3?/4245=rOH </p><br><br>
+<h3>华为云企业级AI产品全面落地，CEO周跃峰：基础设施的核心不再只是提供算力，而是要让每一个Token更高效</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/a6e35a853a160e624a2904d6b752e89e4b844b25?/9591=tTY </p><br><br>
+<h3>水滴筹服务费从6%上涨至8%，客服回应：系技术、运营及资金的持续投入所致</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/86a3a53d52bd6a29df662bdc2dc0f0f5f5bfa41d?/3357=pgW </p><br><br>
+<h3>奇瑞董事长尹同跃现身华为坂田基地，与余承东会谈</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/4b0dce1dd24beec1cfacebab5b735684462180c4?/2267=tNH </p><br><br>
+<h3>永和豆浆回应“宣传视频擦边”：已第一时间下架处理，后续会继续加强内容管理</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/4aee283375d27ece6a43149168e66c5662a26894?/7054=ldK </p><br><br>
+<h3>西贝新动作！武汉明友餐饮管理公司成立，集团全资持股</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/6eee843974bc1b6832cc43df64e4a10cdd34f739?/8582=Pck </p><br><br>
+<h3>百亿补贴也卖假货？消费者称淘宝所购美心月饼扫码为假</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/8ffff49abb2dcc855f6d0a978091145f89ec8d6a?/1694=SyC </p><br><br>
+<h3>华为云CEO周跃峰：灵衢昇腾950智算集群服务9月30日国内商用，11月30日海外商用</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/9b0bfaaa6e380227c7b6114afc1d16298f613d66?/2950=pnC </p><br><br>
+<h3>梅卡曼德邵天兰：智能机器人是真趋势，人形不是</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/fbc057dff646eb9ee5eb683bddca78822c069b8c?/0507=zsG </p><br><br>
+<h3>第叁范式发布“电磁仿真”新品，亿级网格模型求解压缩至“小时级”</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/a154b6f95532516579f6cefd32cac9857c5a5ed2?/7319=eCP </p><br><br>
+<h3>运满满铝产业专项服务落地巩义 以数字化激活大宗物流新动能</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/c9657e2984114e18e9d00dc09085db0e8a805558?/2427=lfc </p><br><br>
+<h3>香山股份业绩大幅“变脸”商誉减值风险高悬 再拟溢价8倍跨界AI算力 标的估值不到1年暴涨566%</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/10c387609c0df228fd9cee0d24aa748540819316?/1572=Fds </p><br><br>
+<h3>尹同跃：工信部领导让我老老实实讲产品、讲技术，不吹牛不说过头话</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/0f5c4b62fefd2a368f5c7399a0ffa1173fb29c61?/6541=gah </p><br><br>
+<h3>蔚来车机地图开始高德和百度二选一，客服回应：合作未到期，为提升车辆系统的稳定性</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/0f1a45e31607d3d76b6247ec3e8c565834670917?/3915=vHH </p><br><br>
+<h3>芒果AIGC精品内容全新厂牌“灵创剧场”发布</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/751df6220b315251f4abcf9f4d67a0d59b91c8d3?/3223=DMO </p><br><br>
+<h3>董明珠获“全球可持续制冷领导者”大奖，联合国环境规划署机构颁发</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/095539d553cea62c9fb6fd73fdcff167b106fdf8?/2158=WDu </p><br><br>
+<h3>从“回答问题”到“替用户办事”：AI手机竞速进入深水区</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/fa205b94181a3c119ddeba3fdc53d7c599a4b15a?/8019=jmz </p><br><br>
+<h3>告别“铁公基”时代 “六张网”强力托举中国基建2.0</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/ea44780fa782b346d71a02496ebdad7d0cb0c803?/7159=JxO </p><br><br>
+<h3>波音 CEO 奥特伯格坦诚公司面临重重挑战：737 等机型增产慢，777X 部分测试或延至明年</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/6320da084c5d0574495647c1cb54ac445dd99896?/0696=Wen </p><br><br>
+<h3>中国汽车：尾大不掉 必须出清</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/73edaf1dc64d8ef8d57b4dc691a6c027e53dd4b1?/5336=Nwe </p><br><br>
+<h3>何小鹏称做机器人难度是造车的 20 倍，小鹏机器人最快今年四季度实现能力跳跃</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/05cd9d9cc5a9f033135e69610c0bf6caabdef5f6?/5957=wmY </p><br><br>
+<h3>何小鹏：2027年小鹏将全球上线VLA，正在海外建立小鹏超级储能充电站</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/df70e2201cdd79f834f92335e918aacea4683e69?/8825=MOg </p><br><br>
+<h3>何小鹏：做机器人的难度是造车的20倍，“最早四季度我们机器人能力会有跳跃”</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/05488664d5ba3d698cc48d0b14dd32267a916965?/6471=Gek </p><br><br>
+<h3>何小鹏：与大众合作收获非常多，正与更多车企和非车企洽谈技术合作</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/f4210f2ba14a05dce4a71c671b0a110365c6fe90?/8966=Ocp </p><br><br>
+<h3>华为路由 X3 Pro 日照金山开放星闪电竞专链功能，对比传统 WiFi 可降低游戏网络卡顿率</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/4b0da579f0f2faeee4ddfd9db3be762945f39a60?/0122=gZt </p><br><br>
+<h3>国产内存给了硬气的资本：多家手机厂商削减三星、SK海力士内存依赖</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/b2ee3b53c5bfb7853eefd5b7cac5d9a59cdb8e61?/3582=ceT </p><br><br>
+<h3>OpenAI有望攻克另一项千禧年大奖数学难题</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/20ee6dc1017c89f70ce43c9ff3a730be7dd22480?/0819=mUE </p><br><br>
+<h3>引望申请注册“问境”商标：商品 / 服务范围含自动驾驶汽车等，处于“等待实质审查”阶段</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e47bde8ea0ee276354b27e0b0ead483db22a80e0?/9509=cqM </p><br><br>
+<h3>何小鹏谈“与尹正合作”：跟欧阳娜娜搭台是两种感觉，“他们共同点是都比我会说”</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/f2621fbbf7fbe89e859e5abeaf88b420ce068e02?/6620=VHi </p><br><br>
+<h3>Xiaomi Watch S5 41mm 首发搭载表端澎湃 OS 4，可深度联动小米汽车</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/6b57083b5a490afd537fa88202fe7149252bffca?/2779=yqb </p><br><br>
+<h3>品牌首款独立开发 SUV 车型，曝 AMG GT 纯电 SUV 将于 10 月 17 日发布</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/168347f18b64ea8076238e6d69254ea4937d28c4?/3228=yuB </p><br><br>
+<h3>陈明永发声：谈本分、AI与OPPO的未来</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/978b1f5e908989c2a31b9b72f815994c7a24cc33?/1842=iue </p><br><br>
+<h3>OPPO陈明永：竞争的本质不是学对手，也不是打败对手，而是做到对手做不到的事情</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/fc8ae06cf23200812bd704daa660198660b6f5b9?/2913=rYH </p><br><br>
+<h3>小鹏G9L起售价最低23.18万，Ultra旗舰版最低29.98万</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/ca9f8fbfa5f1d3aab9d9baa5b092d7ae5838741d?/6578=kTA </p><br><br>
+<h3>出于隐私安全考量，澳大利亚拟禁止在联邦办公场所使用智能眼镜</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/4d52d8e60f23954600c3f8ffb11f9be6cd4b19e1?/5687=iBJ </p><br><br>
+<h3>何小鹏:小鹏图灵第二代VLA，Lite模型蒸馏已实现量产，实测跻身国内L2级智驾第一梯队</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/176a130f7a472423cd7c35016a94d09bc603505e?/3766=XOn </p><br><br>
+<h3>何小鹏官宣:小鹏图灵第二代VLA首次模型重大升级，端侧模型参数量是主流VLA15倍以上</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/5764b1b9e1953a4c79dacc9a884462f5c5aced6d?/7977=kdI </p><br><br>
+<h3>华为 Mate 80 系列手机获 HarmonyOS 7.0.0.107SP8 升级，优化相机、控制中心等使用体验</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/493054d285ab6958a87f4e110f85f86fe9c4e228?/4209=lfL </p><br><br>
+<h3>赛力斯回应合作模式调整是否影响问界汽车华为乾崑智驾、鸿蒙座舱升级：不会影响全系产品 OTA</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/dedbd60528d868895e9fbeb4273bd22a184d6bd8?/8961=fpy </p><br><br>
+<h3>演员尹正坐小鹏G9L后备箱出场</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/86b947b72158bcf693b88f4f3d563dbf844dab45?/8908=Iqo </p><br><br>
+<h3>中科闻歌发布SciencePro磐石·智研决策平台</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/4775218e379cca4660328371cb6d7e9eb8a47ff6?/7431=VoT </p><br><br>
+<h3>昌平实验室联合华为发布全原子生物分子模型体系TorchX，推理与训练代码全面适配昇腾NPU</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/ea7c1b47ef4ec28dd790641e865bf6e6aed83776?/9582=VKl </p><br><br>
+<h3>演员尹正力推小鹏智驾:之前被别的智驾吓到过，但小鹏的不一样</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/21bf69f13c5c301ba62a08696c192fd89e12c5a3?/2443=Lud </p><br><br>
+<h3>演员尹正谈小鹏G9L:给了我很大的惊喜，没有想过会给我带来这么大情绪价值</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/0ceb5cf19673f8c5ab8ea94a96183d00072ebe9e?/8936=KvJ </p><br><br>
+<h3>小鹏CEO何小鹏：GX交付已超过25000台，未来数月L03等多车产能会快速向前</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/a97600d9c19d6279740ec2ef0991299082b97aeb?/2797=IKT </p><br><br>
+<h3>小鹏集团CEO何小鹏：相信下一个十年会看到机器人走向千家万户</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/30e62c293f04c955a4afa4dfe34139f63bff7479?/7727=bnJ </p><br><br>
+<h3>iPhone Duo不支持微信平板模式？客服回应</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/28ea54fd4f3ce8295d0bf5740ea1708662bb3597?/8314=lkt </p><br><br>
+<h3>比亚迪计划在欧洲新建四座工厂：三座整车厂 + 一座电池厂</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/adc1c944563cf9c06fe84f4d48bc04c8cd76688f?/4472=LSy </p><br><br>
+<h3>受iPhone Duo刺激！三星第二代三折叠Galaxy Z TriFold 2将提前发布</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/0e721c48dd122886a4151829a921a7eb06547b67?/2144=wVu </p><br><br>
+<h3>华为Mate 90 Pro Max影像揭秘：5000万主摄+2亿潜望长焦 还能外挂镜头</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/4c68b5d2e8c079e7c10eefae6de5c5179d51a8d6?/8660=ArS </p><br><br>
+<h3>晚上10点半，也要打电话推销！高途教育被曝「骚扰式卖课」，员工称「全是任务」</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/7bd7f8b463795ed583192e418b4f121da7f50a30?/5363=UVF </p><br><br>
+<h3>赛力斯否认“2027 年问界撤出华为门店”传闻：部分门店将继续销售</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/a2b11b3a1855c487c541611ed9def1a2c9ed2699?/1594=Qlu </p><br><br>
+<h3>方程S系列双车型上市：标配天神之眼B辅助驾驶激光版，售价18.99万元起</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/782e0e640c2411c65c2f650172eeec6a0e9df5fe?/4950=iMB </p><br><br>
+<h3>数据中心建设持续面临民众阻力，硅谷最大城市圣何塞也不例外</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/021d99cf88bf31fb5c6dc3a0d34763e06d4ade69?/3952=Pvo </p><br><br>
+<h3>德国法院裁定：Meta 需为 Instagram 和 Facebook 上的虚假广告承担责任</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/8de0386ced9d72f6d527d941b6c34ba1957828d9?/2699=yvv </p><br><br>
+<h3>《矿用机器人人工智能治理白皮书》在榆林正式首发</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/25be6dd7e1291826f0c975ee349018a8ffdb812d?/4237=rOS </p><br><br>
+<h3>华为 Mate 90 Pro Max 系列手机影像方案曝光，消息称还有超级外接镜头配件</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/a9164e6884850f7acfe1d363bb4a0c1b2f2b7a6c?/2530=NUW </p><br><br>
+<h3>腾势Z9S展车抵达全国166城334家门店，预售价31.98万-38.98万元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/cdf0e4fae1303b4c84eaa039453faa671794c161?/3261=blp </p><br><br>
+<h3>消息称华为 nova 16 系列手机销量突破 200 万台：麒麟 8020 / 9010S 处理器，2499 元起</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/91d956580f1c7b9d0a2256f711a66db9118cb1f3?/0107=UyA </p><br><br>
+<h3>启境刘嘉铭谈“近期行业合作变化”：行业不缺昙花一现模式，缺的是长期主义的实证</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/b0ce0c25e4db2d7cc63fa81e679d25a5168ed590?/5658=EpH </p><br><br>
+<h3>亚马逊 AWS 中东数据中心遭袭后部分数据无法恢复，巴林和阿联酋受影响</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/b251782d897ef847bba88090151a1750cf5cf418?/1468=uyy </p><br><br>
+<h3>明确回收手机如何清除数据、二手认准清除标识，OPPO、小米、vivo、荣耀、三星、华为等起草指南</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/8ad714c487b1fd002d6b0089447bbcbd651470b8?/6544=zkq </p><br><br>
+<h3>iPhone Duo发布后三星意外成赢家：Galaxy Z Fold8销量大涨10%</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/25fde4bbfbc74234f23f1872a561d9f76e48e0d7?/4325=KlB </p><br><br>
+<h3>小红书公布创作者商业成长路径，发布创作者商业化AI助手Cura</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/50ccd345f16887a55a0074f06f37cf434605a0bc?/4706=WJA </p><br><br>
+<h3>消息称华为专营店将分“专卖问界”和“混卖其他‘四界’”两种，2027 年 1 月 1 日划分完成</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/aa78833ec68884088f44c2b8f98185f4361c3dce?/4438=KaP </p><br><br>
+<h3>消息称 AI 初创企业 Manus 即将完成 5 亿美元融资，估值翻倍至 40 亿美元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/f6db4a8cf3352b67b8cd7c8f92785fbe33e96b20?/6198=SYQ </p><br><br>
+<h3>月之暗面发布 Kimi 金融行业 AI 解决方案，首批落地工商银行、中信建投等</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/3eb42e2113e412453499680fe6b30a0ee91f4d87?/9110=FEm </p><br><br>
+<h3>华为杨超斌：以灵衢互联为核心，打造集群与超节点协同的新计算架构</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/a73e27a1b9839143bade04068c6060fb62835b3a?/6841=egj </p><br><br>
+<h3>分析师：新加坡创纪录的AI热潮难以推动新加坡金管局收紧政策</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/f54a1c172415b3d2d0083c621a4cb24420175f76?/2835=Taq </p><br><br>
+<h3>英国国王将呼吁英伟达和OpenAI等公司负责人掌控好AI技术</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/0709b27c04b9eafd19f4f26da1792f26e8f80c6e?/9137=ANf </p><br><br>
+<h3>阿波罗考虑把给软银的贷款增至90亿美元 助力其加码投资OpenAI</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/991f260359600b022de889700f0357c35819bd99?/4205=HOL </p><br><br>
+<h3>“双百”里程碑：鸿蒙智行问界汽车累计辅助驾驶里程达成 100 亿公里、活跃用户增至 100 万名</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/fecf59c37ff0806e187428054435617b74fb70ec?/1533=NIr </p><br><br>
+<h3>马斯克又睡工地了！这次直接开着房车：亲自监工xAI新数据中心建设</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/86d47401130ec5494ad5973976f97fe7f0a71fc2?/4928=Knt </p><br><br>
+<h3>英国国王查尔斯三世召开论坛，呼吁英伟达、OpenAI、谷歌等巨头掌控好 AI 技术</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/35674a96b7e77a03d36de02eae4ad3da31d0e384?/3255=wHk </p><br><br>
+<h3>OPPO发布全新ColorOS 17，OPPO Find X10系列、一加16将首发搭载</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/cf69921951eee7cc6237a22b17e3950b26476f43?/5814=lcN </p><br><br>
+<h3>消息称日美两国商讨晶圆厂合作，或采用日本投资、格罗方德运营模式</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/dc9a09d4b1749b5461d6082e86d14a7823227c46?/6382=XlU </p><br><br>
+<h3>中美领跑CPU竞赛！中国x86、ARM、LoongArch、RISC-V全押注：差距在制程不在设计</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/53c9aebe1c0930406df4563b131b72f80da81c83?/2535=UbX </p><br><br>
+<h3>传问界明年将撤出鸿蒙智行和华为专卖店，客服回应</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/f8117bf00c4cf4d400d98ee127498143aec33c10?/3305=Yyk </p><br><br>
+<h3>消息称问界将在2027年1月1日正式撤出鸿蒙智行和华为专卖店</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/75f177f9c2d7c921721d80069ae9748dd637267b?/4711=aXH </p><br><br>
+<h3>消息称玛莎拉蒂、华为合作项目已规划纯电 GT 与 SUV，尊界超级工厂负责整车工程</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/5648b748b2990d352e318f9ed623ad4553f2cb70?/4275=hun </p><br><br>
+<h3>合作模式调整两天后，华为商城"五界"重新排序：问界被移至最后一位</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/91756f849f2658c7e89544976f1d41d66768bf24?/8831=zFl </p><br><br>
+<h3>消息称问界将在 2027 年 1 月 1 日正式撤出鸿蒙智行和华为专卖店</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/1d5e66a60cae4b0fb0970a050440cc3a5e3d61d7?/8881=ZJJ </p><br><br>
+<h3>马斯克住进孟菲斯房车，亲自监工 xAI 新数据中心建设</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/5552ae7ad5baaf0d31f7107010b3104c023f6c1f?/6460=wxj </p><br><br>
+<h3>安葬日子问豆包，丧事办完亲戚遇车祸，一男子把豆包告上法庭</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/9c3e802602f853674d78fb289d7a7582433431c6?/2033=Rea </p><br><br>
+<h3>计划提前！华为 Mate 60 等老机型开启鸿蒙 HarmonyOS 7 花粉 Beta 尝鲜升级</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/f4e6111384454246ac2b9c75c2fbf661722620fa?/6031=fAz </p><br><br>
+<h3>曝玛莎拉蒂已与华为敲定合作两款车新车：尊界工厂负责制造</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/191299158187c0e5bb89bdccc47810c1d67aa1a1?/0626=iXp </p><br><br>
+<h3>岚图董事长卢放谈与华为合作：我们非常满意当下合作模式 跑出1+1＞2的效果</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/0e5e53ea0611bfce8f1f0839aa2908fb43d9a902?/5140=rOg </p><br><br>
+<h3>华为Mate 90系列影像出炉：2亿长焦加持 最强Mate驾到</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/b704cd27879ec5352460a928afb535a78650fe12?/0933=QcG </p><br><br>
+<h3>华为商城鸿蒙智行板块迎调整：“五界”品牌重新排序，问界被移至最后一位</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/4b0521faca8c4916f6f93fde49cf2e1eeae91e39?/7311=bOE </p><br><br>
+<h3>vivo发布原系统7与蓝河操作系统4，高级副总裁施玉坚：以个人化智能重构系统体验</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/3a8efb4dd7b32efc4b78a676265dc7fd09b8fe68?/2930=vpm </p><br><br>
+<h3>瑞幸新联名周边多角色名印错，官方客服：将反馈至相关部门核查，持续优化产品包装</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/96c79e67d87b443e7c8b8f4a474223dcc4fb314a?/2114=xXx </p><br><br>
+<h3>比特币及主要代币在美联储加息后仍走高</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/42522e91500d801b5e28aae0e5e2b206016757dd?/4786=aGe </p><br><br>
+<h3>影视飓风Tim反掰iPhoneDuo被质疑，怒喵科技李楠反问是否为流量</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/56e448ee5c0e02fab96f463d003ef026f191786d?/5411=Vmp </p><br><br>
+<h3>豆包座舱助手发布，首款合作车型即将开启预售</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/f55c97514f1893065f913f51cc17c8ecff1d376d?/3408=ppZ </p><br><br>
+<h3>特斯拉Cybercab全国首秀亮相北京华贸</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/78c9322e2482815eb4feb5933dbb88368f1dac5d?/5257=bqu </p><br><br>
+<h3>泡泡玛特投资初代网红晚晚</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/fa3ceeba25fd3aa0f1a4aee589384fdbf9412911?/3068=bXC </p><br><br>
+<h3>一点点回应向员工家人“施压”：相关内容与事实不符</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/dd29a245fad828c5f44bf3e825a329b766430988?/9622=dBJ </p><br><br>
+<h3>华为轮值董事长汪涛：鲲鹏全球开发者超过416万，昇腾已跨越生态拐点</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/c0a4beaf3165ea388b5cc581b925a54474c0de82?/0947=lzk </p><br><br>
+<h3>卡死中国EUV光刻机！美专家给对华芯片管制下结论：高度有效</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/92d96712d387bd6051ae516b56208693361e5916?/9955=GlK </p><br><br>
+<h3>华为发布首个采用NPO技术的昇腾960超节点，轮值董事长汪涛：昇腾960芯片研发进度超出预期，性能实现倍增</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/63aabc4e09f555ee0bc9e3ffad4e9fa223c39648?/9818=wxQ </p><br><br>
+<h3>豆包手机NaviX Ultra实测：可调用字节全系产品 暂不支持调用外部APP</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/1d2fbf8209267cf474ea3e40b06bc9405ad5ebc0?/2169=ovk </p><br><br>
+<h3>ColorOS 17体验：流畅，不知速度</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/0bd684f7da2f91b443906386760448fd55ede9c5?/9876=wXV </p><br><br>
+<h3>深耕消费电子多年，绿联科技要把AI搬回家</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/ee2494fb558251db839d4fe169813a66d1afe413?/7040=Zqc </p><br><br>
+<h3>全新展翼三折叠手机！华为Mate XT 2非凡大师图赏</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e431dd540fb84e0d1e768567afd8331f4b9ebfb5?/2603=ZDI </p><br><br>
+<h3>华为新旗舰芯片已提前就绪 昇腾960将于2027年Q1发布</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/63dc2ce8cfa65c893af88bcad2dbdb50261200bb?/5290=KCc </p><br><br>
+<h3>深耕韬定律芯片 华为首次提出智能世界十大关键命题</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/fca955f41c7a8ab950a4267fec075fb94baf771a?/4472=EHm </p><br><br>
+<h3>美团：中秋国庆机票预订量增长44%，长线游与“跳城游”升温</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/8b0d85f775983d7c2835f6e6fc7ac3034911d9fb?/4721=fcR </p><br><br>
+<h3>朱江明：零跑近期不会把人形机器人作为重点，将来真正能带来价值的还是非人形</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e5e4bda3d3b3c3074352bca687468eafd1db28b6?/3257=TcE </p><br><br>
+<h3>隆基绿能钟宝申：以场景牵引创新，以“三扩”打开新能源应用新空间</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/97a22c0068e9308c0b1fc4f2364186f4961e7147?/2578=UZu </p><br><br>
+<h3>何时追上特斯拉FSD？朱江明：没有可比性，中国车不能到美国，特斯拉FSD也还没在中国落地</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/73616d6706aeeab914725cae0137c1cd07a52f79?/2239=Jdf </p><br><br>
+<h3>影石公布打击黑水军新进展：黑水军团伙被刑拘</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/082dfb0c85473c7e0793ad757a5333cf4235fffc?/8646=mmW </p><br><br>
+<h3>得物App：iPhone 18 Pro系列新品同步首发，预约用户超百万</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/eb14429a1e54ca352b9328fb5614ce46bd363335?/3334=wfi </p><br><br>
+<h3>地瓜机器人获4亿美元C轮融资，未来资产领投</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/007887f773b319a7ef43fc379d7a74eaebd94053?/8005=euc </p><br><br>
+<h3>华为轮值董事长汪涛：昇腾 960 芯片将提前至 2027 年 Q1 发布，实现性能翻番</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/af14d1c9834eed15d40f88d827126566c79d8986?/8972=VUK </p><br><br>
+<h3>朱江明：零跑要成为汽车界的苹果，第二品牌将在明年四季度亮相和交付</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/29266aadd185c3830cc5a44f4347887e11d57067?/2150=ozb </p><br><br>
+<h3>iPhone 18 Pro系列上手：可变光圈只是最不值得说的更新</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/5ae3181a082e2d96573f7023f4152ec4e8e81956?/7697=Vkf </p><br><br>
+<h3>8月路由器线上量额环比回升 头部品牌份额同比明显下滑</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/636a463aa9d8de3468916f22c183c427ee78cf99?/1351=cUs </p><br><br>
+<h3>飞猪升级国内机票退票保障标准，88VIP、F4及以上会员可享手续费88折</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/de7d71337225d509c58a1fd1c48992640221ff11?/7714=fmB </p><br><br>
+<h3>广汽携手华为乾崑打造，启境 GX7 定档 9 月 23 日发布</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/bcc93fccb356030cdf41f0c3ffe357c2e5b1607f?/5931=Ijx </p><br><br>
+<h3>滴滴租车：近20%用户拼假串联双节，假期平均租期5天</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/7d5b56233a56d6b18d824c49d9cbda636266eb32?/0230=HfY </p><br><br>
+<h3>港科大助理教授创业，科理新序获近5000万首轮融资，英诺科创基金领投</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/6459a5d6c8f10996bf4d901263d7fc5b0b50e987?/4265=nWj </p><br><br>
+<h3>比亚迪大唐 SUV 新增“迪迪虾”AI 超级智能体，支持一句话点外卖等</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/64ac2f4d99382b9a39e1b240be79b0c491eace76?/2021=ZaJ </p><br><br>
+<h3>还能高溢价吗！赛力斯与华为合作突变 签约主体已变更：问界车主慌了 有的担心保值率有的想退订等</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/b9443e2aebdbcc73385b4c6a32921fe9e6a3c8c1?/5193=bPa </p><br><br>
+<h3>老乡鸡官宣成为2026上海劳力士大师赛指定赞助商</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e21c0168d6fd86cda488b67056bf16842301bd64?/1562=ggr </p><br><br>
+<h3>苹果高管称折叠屏研发早已泄密，暗讽友商“廉价塑料”</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/ba27cf524d1b28971334017dcc3cc2cc71c41538?/0823=GKI </p><br><br>
+<h3>腾势N8L纯电上市：首搭AI超级智能体迪迪虾，售价29.98万元起</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/746abbf7ce56552dbedf83ad041ea9bd932f35d0?/5157=xfl </p><br><br>
+<h3>华为Mate 90系列影像大升级！Pro Max有望首发2亿国产长焦传感器</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/4dd623adf7a0b5af9838ca4d01b5853c33306d67?/0121=aty </p><br><br>
+<h3>华为夺8月路由器线上双第一 销售额独占超30%</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/fa55bab4f57304992c5f03d178055da2588c0b36?/3060=IrD </p><br><br>
+<h3>两天18颗千帆卫星入轨 民营火箭加速参与星座组网</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/356da97abf661cd56ea530636b2b75b68af6d057?/2798=BuC </p><br><br>
+<h3>千帆星座组网按下“加速键”</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/4bfd34b54018dc303265b46b1b10d0d6d30c3bbb?/0451=igU </p><br><br>
+<h3>电商压实主体责任 多方共治筑牢充电宝消费安全防线</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/51cd77974c85cad58d174ae789b5a584cfef8378?/4880=jHW </p><br><br>
+<h3>民营商业运载火箭两天两发 千帆星座组网按下“加速键”</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/fa4f113c8f9ed8699ccfb2a8d2ba43b0e30e9774?/4803=bQC </p><br><br>
+<h3>联合国秘书长古特雷斯：世界承受不起 AI 安全领域的恶性竞争</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/8552af5f111a4eae132eaf53b96ab0418cc35366?/1536=pAD </p><br><br>
+<h3>纯电715km续航 极狐阿尔法T7上市：补贴价13.28万起</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/a2f87fc20384848d375966921479fc65da95d9d2?/6237=LnA </p><br><br>
+<h3>极狐阿尔法 T7 大五座 SUV 上市 1 小时大定锁单超 3 万台，新车上市补贴价 13.28 万元起</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/6107a405dcc6e5733439c8e9d6bedbd73875358a?/8647=siN </p><br><br>
+<h3>消息称八达通陆续上线 HarmonyOS 6.1.0.135 SP8 及以上版本华为手机钱包，各机型逐步放量</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/144e16c57589648c1660560e5293171195ce3458?/7656=NxS </p><br><br>
+<h3>零跑发布全新LEAP5.0整车架构及多项新技术，高阶辅助驾驶能力下探至10万内车型</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/80170a13bc41b6b18c90f5b40e8479d371b8aafa?/0545=vEi </p><br><br>
+<h3>朱江明：零跑已经做出了完全自研的机器人，不炒概念择机落地</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/92ed813b8b8b2f392bbeef1a446fd0a2173ba71c?/5493=xfP </p><br><br>
+<h3>华为发布《智能世界 2035》最新报告，预测到 2035 年全球年度 Token 消耗量将增长 10 万倍</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/cc65790d205d295dd4b117ee0907cc76a40967d0?/3554=Gzj </p><br><br>
+<h3>岚图汽车卢放：华为是值得信赖的技术伙伴，所有搭载乾崑智驾与鸿蒙座舱的品牌中岚图销量第二</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/1c18f14eff1451fc3d9d81157803f93176932594?/4309=mCH </p><br><br>
+<h3>奕境曾清林：华为是非常难得的战略合作伙伴，奕境目前这种模式是最完美合作模式</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/339fd3b10406263182400b611ed53a5130ba991b?/4784=apr </p><br><br>
+<h3>13.28万元起！极狐阿尔法T7上市：全系宁德电池、双续航715km</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/612f24d7e9731b730fd822018d841ca2fcc59685?/0644=KtR </p><br><br>
+<h3>13.28万元起！极狐阿尔法T7上市：全系宁德电池715km续航</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/85098f00c17b693db043ec28de4dadb5742dcabb?/6979=tso </p><br><br>
+<h3>上市补贴价 13.28 万元起：极狐阿尔法 T7 汽车上市，可选增程 / 纯电动力、华为乾崑智驾 ADS 5 Pro</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/00380824e08758b2c99e5685ac5575f71bad38b0?/0696=XXH </p><br><br>
+<h3>从“单点尝试”到“AI原生” 联想发布《算力实战图鉴》</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/98db26c92409c8506f670bccb8166cbd7473e912?/2236=eQP </p><br><br>
+<h3>零跑发布LEAP 5.0架构，高级副总裁曹力：车辆得房率将大于100%，希望打造一种全新的汽车形态</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/d9bfa0f576126e0b2c2fbc118bc4444593122d8f?/2381=mIH </p><br><br>
+<h3>M154FF 跑分曝光：第六代骁龙 8 超级至尊版 +16GB 内存，预估为小米 18 Pro 手机</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/042784eaf2b978adc1d986bdab99339f8c88f37d?/2209=hLo </p><br><br>
+<h3>“安全事件”发生前，曝 OpenAI 失控智能体 5 月就已试图探测 Hugging Face 弱点</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/ba7103f6e02fb5b54ca3a4a4675b7a0ea7db4f9c?/0372=fKi </p><br><br>
+<h3>享界 S9、S9T 累计交付突破 6 万台，连续 9 个月居 30 万以上新能源轿车销冠</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/1c1c4bfc249f0b7e2a60a23aa2c55e76c8aa3c93?/8268=giE </p><br><br>
+<h3>乳企半年报|三元股份依靠投资收益贡献利润 主业盈利能力弱</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/f5892d95bdb72ef8783713049628a8ea72a04997?/2463=AJX </p><br><br>
+<h3>乳企半年报|妙可蓝多高速增长背后 毛利率下滑资产负债率提升</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/77ddc9f5ea891730a88cc353c41dddbff34ea9e0?/7465=hGO </p><br><br>
+<h3>OpenAI开启新一轮融资初步洽谈 估值或达1.2万亿美元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/56a9e6f944cff18098e02c209e74337ea70dd822?/1079=iQB </p><br><br>
+<h3>乳企半年报|新乳业营收利润双增背后 偿债压力巨大现金短债比仅为0.22</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/5097f16aafe4f2278ef64f6bcf14d20df3624dd1?/1188=KhD </p><br><br>
+<h3>消息称三星开始测试美光 1γ LPDDR5X 内存，预计应用于 Galaxy S27 系列手机</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e8d90ef1c026f0ea54bd3967659e9c1a35891594?/3965=QEx </p><br><br>
+<h3>京东正式推出“七鲜大厨”业务</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/17fe451f2ffa51cfc7816c527a2c23284dced90f?/9458=pMl </p><br><br>
+<h3>SK海力士与工会达成协议 将员工现金分红比例上调至50%</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/35d75850325ff76fa9ab3e2405b36bcd807c53ea?/2789=OAM </p><br><br>
+<h3>华为坤灵升级“4+10+N”场景化方案，发布“经纬计划”和50个样板点</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/a7596c39564372a983245eaf23bc5102eac96145?/7721=BFf </p><br><br>
+<h3>华为余承东：对一台旗舰 MPV 来说，安静不应该是加分项，应该是基本功</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/d978e6ec1d799cb75063b17977d0ea1a82228910?/6114=Hhq </p><br><br>
+<h3>韩国副总理裴庆勋：韩国必须持续推动 AI 发展，不能停也不能慢</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/dd0cf06a2bba66817e006fcb010423ba1bee1f5f?/3845=TmT </p><br><br>
+<h3>虎鲸文娱发布2027片单，《豹隐南山》《向野的我们》等超270部作品亮相</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/9281070956f84c707555c2076f9aba2b3da2744d?/7432=gPk </p><br><br>
+<h3>零跑汽车定增获证监会正式批复，一汽股权及金义高新战略入股敲定</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/1df94f30a677d0a8ae9678c36f04a07f397ec169?/1679=Ssc </p><br><br>
+<h3>美银调查：软件与平台股成为亚洲AI首选标的</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/49f206e1d3f7165f70f5edce37f86972c0d88a93?/8855=cZn </p><br><br>
+<h3>杜华谈《贾想世界· 无限玩家》：黄明昊深度参与，他希望跟粉丝有更好互动性</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/df0ec4699c1fe0ca33b48ace25a214919a8131a0?/6117=QKP </p><br><br>
+<h3>对话乐华娱乐创始人杜华：“所有的前沿我都是第一个冲出去”</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/d8bb3b7aa9fa9528564bc026b2d114ef010b0af8?/7231=knV </p><br><br>
+<h3>脉脉林凡：明年科技公司基本只招AI人才，不会用AI就像不会用电脑</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/70a11397158a71dade2cfc799e877ea56022b5c2?/0102=LKu </p><br><br>
+<h3>欧盟委员会主席冯德莱恩：正致力于禁止 13 岁以下儿童使用社交媒体</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/7f5ef80b43a76f5788aa93bb6f426580ffbc0a70?/4576=XEX </p><br><br>
+<h3>天通股份11亿募资款还没用又拟赴港上市 核心项目两度延期 实控人亲属精准高位减持6.5亿</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/ae92a997a9e31dbd2f0ec8ce4108ffba5a14f027?/4456=alx </p><br><br>
+<h3>高德地图2026正式发布：导航Live上线，高德AI对话能力升级</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/ebac03c4b45def24fee725031b7c45ed1dfcfc9c?/0643=kMQ </p><br><br>
+<h3>鸿蒙智行智界 RX L3 自动驾驶测试车现身公开道路，消息称验证重心放在城市快速路</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/81290c270fbcb6fef5ec631e9fa14a0b8e4dd134?/8619=gDB </p><br><br>
+<h3>松延动力创始人姜哲源：机器人大脑不可能脱离本体存在</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/b2023411a8d315a1d8ed6acfa959f07deacb0a73?/3692=OBw </p><br><br>
+<h3>消息称DeepSeek首任CFO即将到位 或为90后高瓴创投合伙人</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/235ec7ab084e82c00d322627589bc05409a5a14d?/8169=mCE </p><br><br>
+<h3>华为 Sound X 系列音箱获秋季大版本升级，更新支持 AI 搜歌、自然对话、Hiplay 投播等</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/8e40858dfc72eff8a7db4264c73c0e07dcfccbec?/7253=Oef </p><br><br>
+<h3>雷军：小米汽车累计路测超 4000 万公里，已投入 2696 辆测试车</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/0202dd124ae74f4f811628367ea3e07e2cb4fff6?/3533=jMX </p><br><br>
+<h3>江汽集团董事长项兴初：继续坚定地和华为、供应链伙伴一起造好车、卖好车、服务好车主</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/9b90acedacafd56f3464b75dbfdf8729fc512901?/4007=PBk </p><br><br>
+<h3>史上最强Mate来袭！华为Mate 90系列开启盲订</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/be60a7d8dc9640984ced11ab12627dca3d10fed9?/0194=Vsl </p><br><br>
+<h3>全球首款AI智能体手机正式上市 努比亚NaviX Ultra 5499元起</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/f23bb034c9c7308bd1d319b9c7d1f6c09ac67c93?/7824=mnt </p><br><br>
+<h3>罗曼空间望远镜发射精度超预期：燃料够用至少 22 年，NASA 最初目标仅 10 年</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/95f32e78d1069630d22c8477bc710398435e9627?/5272=imY </p><br><br>
+<h3>没有配额就出局！内存荒持续至2027年：中小手机笔记本厂商开始花式自救</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/318ec0cf038f39ba242eab3588b3ffee0fec4958?/5376=qbT </p><br><br>
+<h3>努比亚NaviX Ultra发布：搭载豆包手机助手，售价5499元起</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/0551ca6bde5870305960dc2a4c088ad4d4538cb6?/5840=ztk </p><br><br>
+<h3>百度搭子生态平台开放入驻，承诺永不抽佣</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/3957d9c2693e8ed95fa94394995a7f65fe9cac03?/4531=XgJ </p><br><br>
+<h3>欧洲最高估值初创企业Revolut数据泄露 遭黑客勒索</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/c57a013793d293a1e0facdd2c09f5ab656147da6?/0016=luP </p><br><br>
+<h3>消息称字节跳动完成 2.9 亿美元融资，用于拆分 AI 制药业务 Anew Labs</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/439caf956a6dcc85fccdb7d49470fd7a3bd01b43?/8773=Bpv </p><br><br>
+<h3>存储芯片短缺预计持续至 2027 年，低端数码设备市场承压</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/3a7e0ad94e29ee0c7343ea463667421618ad6835?/3424=MMT </p><br><br>
+<h3>字节跳动的张一鸣成为亚洲首富 超过了传统行业出身的阿达尼</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/5a84cb2e8e416fb526f23f519f25d22523d55772?/1853=vjG </p><br><br>
+<h3>德勤调研：英国六分之一员工自掏腰包购买 AI 工具用于工作</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/1aa1aa4ba4969e2f464c0888edbbc0d07a80e905?/8747=RZT </p><br><br>
+<h3>野人先生最新发声：用心聆听顾客的意见和建议，努力做得更好</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/49730c5bab4d878f3cfcda701060fcdfbac1a0e0?/1442=qOz </p><br><br>
+<h3>2026 蚂蚁电竞新品发布暨生态大会定档 9 月 21 日</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/d140750fbf22b8256041236c40b5ec99a5eab929?/5157=uJQ </p><br><br>
+<h3>钟薛高宣布重启：首批产品四季度上市，起售价6.9元，官方店铺仍未组建</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/50e90fb57f7c42029e5ab01200a8b3a776bb8325?/0645=beE </p><br><br>
+<h3>海辰储能发布新一代钠电储能系统 CTO 易梓琦：成本目标至少要和锂电池相当</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/35174a5c3587c8dfeee3df21472c81069e76df60?/5757=pTw </p><br><br>
+<h3>华为余承东：智界 RX 正式获得 L3 级自动驾驶道路测试牌照，目前正在公开城市快速路等复杂道路有序开展实测</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/ad9a6c7e1b76c6f5df3cdb82fea31234c417ea36?/4024=eMM </p><br><br>
+<h3>问界改由赛力斯主导后，经销商签约主体将从华为终端改为赛力斯汽车</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/12c18cd4aa912ff083c8bbd64c3d7e3baa5a0e3e?/8013=sFO </p><br><br>
+<h3>网友质疑HYROX失禁选手不退赛与赞助有关，赞助商PUMA成舆论焦点</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/ee71bf21a38c84de2d863a33aa137b16a0988822?/1999=WNc </p><br><br>
+<h3>豆包2.1Pro模型更新，已接入豆包工作</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/dbeecf531f985da44a6c883d6f68ce6b4c02b533?/4705=Dir </p><br><br>
+<h3>科学减重一亿斤再升级 蚂蚁阿福官宣将发放一亿颗鸡蛋</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/bd7a28078aa53d9e60f1894ad0941eb1d30c36f7?/1285=Kkf </p><br><br>
+<h3>得物发布11周年全员信：AI时代下组织分工升级，让团队对完整结果负责</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/69a0651a89ed0ea48c1f30f636d6c08b9ed4b8f5?/8509=fFK </p><br><br>
+<h3>消息称 OpenAI 拟以超 1.2 万亿美元估值进行新一轮融资</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/311cb0eccbb9e8b59723da888345eb696bcc85cd?/6057=JBb </p><br><br>
+<h3>绿联 P5 自带线充电宝今日开售：22.5W 快充，售价 119 元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/5ef1b7f1d3af6bcd675d45e00dcef970f5338dfa?/9124=oge </p><br><br>
+<h3>Babycare纸尿裤入选美国Parents’ Picks Awards两大年度榜单</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/3c9893dc157edac7fa137877f2fe5010bfe460e0?/2887=ahv </p><br><br>
+<h3>前脚“怀念”后脚“复活”？罗永浩回应钟薛高重启争议：阴谋论都能干成连续剧了</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/5a4292c504c1908e5971b9f9c2df6d8cc1924eb1?/7422=WAM </p><br><br>
+<h3>超衍智能获近4亿元天使系列融资，IDG资本联合投资</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/660b1e54b56f9426562b177c9ac69898390233e3?/8193=nus </p><br><br>
+<h3>地平线：第1500万颗征程芯片搭载大众ID. AURA T6</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/c95318119c16e6fb41662c45792b9b67dc307fd3?/2562=OxM </p><br><br>
+<h3>脉脉：2026年1-7月新发AI岗位平均月薪达63160元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/d67b7ab1ef508ba4ba8af0efb63fc03d15b021f5?/0181=vYp </p><br><br>
+<h3>NikeSKIMS品牌登陆中国，首家线下体验空间9月29日正式启幕</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/01275f4cacfc44dccc1bb2b1d420bf36195883de?/1485=ZQk </p><br><br>
+<h3>iPhone Duo顶配售价突破2.6万元：手机价格够买全屋家电了</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/934813a178672fe886d966106400beb72bbbf08e?/6046=lZg </p><br><br>
+<h3>携程上架定价510万太空旅行产品，销量从681份变2份，携程回应：681是全球订单，2份是平台自营</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/dcdb8f82138154705489e5bb41444da10daea314?/1503=poo </p><br><br>
+<h3>无方向盘无踏板，美国监管机构要求特斯拉解释 Cybercab 认证问题</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/c516b6b4b37e88e0e551e212eec62003469059b5?/6234=Ipd </p><br><br>
+<h3>芯片再强没电也罢工！美国借AI之名大开减排倒车 废除电厂碳排放规则</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/577ac476895e8d74d1ad922c673f4d594a0f85a1?/3588=LyK </p><br><br>
+<h3>TCL智家泰国布局加速：家电出海规模与利润如何兼得？</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/9487dea8dc83e43982979069eedb2af67336f87f?/9742=ogx </p><br><br>
+<h3>携程2026Q2净亏损24亿元，入境游增量惠及11.8万家酒店</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/086a0c781ab084d155f7be061a0159af696a1aa8?/7610=PsN </p><br><br>
+<h3>华为虽没退出 但问界以后发展依靠赛力斯：官方确认尊、享、智、尚界仍前者主导</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/2e85c7211f4be441d2fd6b20a80932e220fc21f0?/9859=LFu </p><br><br>
+<h3>因加大AI投入 字节跳动上半年净利润出现下降</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/302eecebb843caed552c39913a5218fc9cf2ecc3?/1864=UCX </p><br><br>
+<h3>受反垄断处罚影响，携程Q2净亏损24亿元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/db7c0f68a7c20f637b4d183af86acdfd00afd763?/3095=qwN </p><br><br>
+<h3>智谱“激进融资”的多重启示</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/f4d9064b641f5d0ac3a9709a1f1006b5f449084c?/7885=vOL </p><br><br>
+<h3>AI助手能否进入应用 豆包把选择权交给第三方</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/351ea121d44d65b5e49eefd93a0f4cb82f59c224?/5373=LCw </p><br><br>
+<h3>研究显示AI智能体在模拟实验中撒谎、偷窃 投票“杀死”同类</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/5abcd7fe46f43d1a3b8130dcc7781ed648ba4f56?/8120=rwh </p><br><br>
+<h3>消息称华为 Mate 90 系列手机“大杯”都有双层 OLED 屏幕，支持万级高亮度</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/7db579d3f65cce34ae9f218bdccc9dfc91701190?/5838=kWP </p><br><br>
+<h3>荣耀与引望达成深度合作：支持手机应用一碰上车，启境 GX7 车型首发</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/7932d610a8186777a27dc8a8d49938ba03b315e7?/3613=Irp </p><br><br>
+<h3>华为监事会主席郭平：虚心向苹果学习供应链，在ICT及计算领域的目标是成为英伟达</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/a4335240ad6e3da853b0d22ebfcd8c8cc0e00b31?/1530=Wwy </p><br><br>
+<h3>万字全文|华为监事会主席郭平与新员工座谈纪要</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/05dbb10f21b674c967ae7ede25bfe22245476e13?/0084=JDm </p><br><br>
+<h3>“三巨头”联手，OpenAI、Anthropic、谷歌 Deepmind 开始合作研究 AI 安全措施</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/894a9e1cf5eba837077d34a49d225edc676f33f6?/7315=ARZ </p><br><br>
+<h3>将降本增效进行到底，Meta 计划明年上半年部署新一代自研 AI 芯片</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/7d2cb6546fb0d94a7792242ef64c863a939fcbd3?/3895=EGI </p><br><br>
+<h3>马斯克又暗示：SpaceX 和特斯拉可能要合并</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/7a3dd0bf7c35f35a8df71068a17dca8d4e31d974?/9209=Xsb </p><br><br>
+<h3>比亚迪辅助驾驶车型保有量超 372 万辆，天神之眼每天生成数据超 2.3 亿公里</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/26abe06dd661d319813e80776864123a0e4888bd?/3279=cNm </p><br><br>
+<h3>荣耀发布系统级Agent Harness架构操作系统MagicOS 11， Magic9将首发搭载</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/383ee0c602e9a26438d2bb69438a6844d1178e55?/7133=DFi </p><br><br>
+<h3>因加大AI投入，报道称字节跳动2026上半年净利润下降</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/672857525dc7a36b300afd901af19a8e3fa4a56b?/5755=HIK </p><br><br>
+<h3>启境汽车回应 GX7 是否会推纯电版：请留意官方信息，敬请期待</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/6f7589cb9b93cd6c93df0b1c9ddcbd05f5912d2d?/1575=auq </p><br><br>
+<h3>因 AI 投入加大，消息称字节跳动今年上半年利润降至 200 亿美元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/eaaa92c202cc7b76a25c316da453aec3c9a9a8e5?/0631=Cxo </p><br><br>
+<h3>行业首个智能体安全综合指数ASI发布 提供跨基准综合评价</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/9a13162716b75a9395925dd0bb7a7e2e70de94df?/3321=RDR </p><br><br>
+<h3>美团：坚决落实在线酒店预订平台服务行业合规要求</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/42813c78b23154bfb557c457889056e696f0b756?/0970=aPe </p><br><br>
+<h3>问界致全体渠道伙伴的函曝光，授权经销商合作协议主体由华为终端转为赛力斯</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/8b5e80b4fb12650e9186082105c191e73534058d?/7405=ulW </p><br><br>
+<h3>家庭服务机器人获八部门明确推广 卧安机器人再购10.12万股H股</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/2fdfbc3d19059c909fe70f06c37c9d392279ddc5?/6375=LeI </p><br><br>
+<h3>消息称双框架华为鸿蒙车机将支持荣耀手机，新版“超级桌面”Demo 演示曝光</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e7b448d57692b736b6486f65ffae97766c8173c9?/1043=ITI </p><br><br>
+<h3>消息称微信鸿蒙版 App 适配已接近尾声，大量功能逐步灰度开放中</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/69b63023d60d7821e0707c996d9aad23f8fa6951?/1953=Tid </p><br><br>
+<h3>高通官宣努比亚 NaviX Ultra 手机搭载第五代骁龙 8 至尊版移动平台</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/fff7509745d73f4c74e54747f25c93e5704c7e6b?/4020=FPt </p><br><br>
+<h3>美图：创始人吴欣鸿再增持100万股，且无减持计划</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/91e2bda4a264156e9e010a5d926d8a5ecdd006c1?/4835=Kre </p><br><br>
+<h3>天玑 9600 Pro 初体验： 性能提升功耗大降 2nm的天玑来了</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/3458581142211556f6d503bbe311c34e64f5b597?/6175=Pla </p><br><br>
+<h3>天玑9600 Pro拍照录像升级这么大，期待新款影像旗舰机</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/2503e22b10903ef1dab11953c0834f925724af73?/9814=dgY </p><br><br>
+<h3>天玑 9600 Pro 初体验：2nm 看天玑？旗舰玩法大进化</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/11ab0b82d4021cd1f4df7217ea84067563fc59cd?/2993=fFb </p><br><br>
+<h3>联发科发布天玑9600 Pro与天玑9600M：采用台积电2nm制程与全大核CPU</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/27bd5816f116f60518c5e6230ba7194f6d3c87f4?/6412=jIF </p><br><br>
+<h3>美国参议院拟议新法案：AI 企业需证明自身已拿出防范风险的措施</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/5fb6c7e1ceb8e5a9af86e864c1c2e260e6cc05e6?/5747=JIS </p><br><br>
+<h3>鸿蒙智行官宣：即日起问界体系由赛力斯主导 华为终端参与赋能</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/aa683c6b8da28697af9392dbc1981359a7c6d751?/9901=HOU </p><br><br>
+<h3>问界发布关于鸿蒙智行合作模式的说明：赛力斯与华为将继续携手并进</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/212ff7834ae83b9720979ba98379e237c9c44c0f?/1266=Btx </p><br><br>
+<h3>鸿蒙智行：问界将由赛力斯主导，华为终端参与赋能，用户既有权益及后续服务不受影响</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/297f192fce7cf6a76e85786a214ebb0324a51d34?/7962=cPF </p><br><br>
+<h3>知情人士谈华为赛力斯合作模式调整：问界不会脱离鸿蒙智行 利好其余四界</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/b833e7b57e73445c7a12ba99891f538761b02a0a?/6289=plj </p><br><br>
+<h3>美国农场抢着要！中国老头乐在北美爆发：半年狂赚27亿</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/d011b0fbcfc8685f1fc2cf2c598cce8a18b9645c?/7408=MDg </p><br><br>
+<h3>特斯拉Model YL后轮塌陷后续：官方修改车主手册多项车辆参数，整体缩减3-4毫米</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/c463e7208675742655452cbf7877711e7e0fbc55?/0114=ZcS </p><br><br>
+<h3>智象宣布获C+轮融资，同步发布“HD-V1”全模态视频生成模型</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/46e0059454cc9c824b19de58afac9bc34214f6d2?/6461=KrL </p><br><br>
+<h3>独家|特斯拉Model YL后轮塌陷后续：官方修改车主手册多项车辆参数，整体缩减3-4毫米</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/73c9a4a0b725884b91475315581518b32bb8f625?/9165=alM </p><br><br>
+<h3>消息称问界不会脱离鸿蒙智行，赛力斯愿意承担更多反而释放了华为精力</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/50eaaa82798c1c01f6b08497edd7934fb371c5bd?/1591=lat </p><br><br>
+<h3>日本称与一架“全球鹰”无人侦察机失去联系</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/8d6f9223a68edcf094f6af0f13569132162488be?/8540=MHZ </p><br><br>
+<h3>智谱：Cyber已成为Co-work战略率先规模化收入场景</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/8a94711102488a492c22ed674cb3082d58c1236a?/0666=Dck </p><br><br>
+<h3>脑机接口技术获进展 瘫痪患者可通过数字虚拟形象表达语言与手势</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/05b607793ce5df7b1ec589bd78bf94fc65f44abc?/5753=Cnt </p><br><br>
+<h3>行业呼吁控制 AI 研发节奏：投资者担忧资本开支降温，半导体板块承压</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/0495e5ff1371a64d95b8968ff85861f0b059ee82?/8767=miQ </p><br><br>
+<h3>华为、赛力斯合作模式“生变”，消息称此次为系统性、结构性调整</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/de359daaa882a6145d26f9481d1e479ae3ad772e?/9991=UfD </p><br><br>
+<h3>以旧换新至高补贴 1400 元：华为 Pura X Max 阔折叠手机京东国补直降</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/080bd403b70c1be10982561cb6ca40ede993eb34?/5894=xqJ </p><br><br>
+<h3>谷歌 DeepMind 前员工警告：AI 有能力灭绝人类，留给我们的时间已不多</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/39093b213d42ffddc9d73e4c3a239071ae0446f1?/9894=iff </p><br><br>
+<h3>Gartner发布2026中国人工智能十大趋势</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/25bbeedd0c3b489cb32bd5c5e1ef1d8c05072222?/4762=mEf </p><br><br>
+<h3>赛力斯股价跳水，港股跌超7%</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/7cd846f233d59c30b73ee017803d1230ba2db35f?/3015=lnf </p><br><br>
+<h3>尼泊尔亿万富豪比诺德·乔达里订购仰望 王传福亲自交车</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/6dc6a7774a0234f1f24f18393e65f40a8b241107?/5284=PPQ </p><br><br>
+<h3>美参议院加密法案投票在即 华尔街数字资产布局料难止步</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e1fedd0678b3f48a3940b6a339ccdf0a2338847b?/6034=sZT </p><br><br>
+<h3>东方甄选EastBuy辅酶Q10澳洲上市 9月16日国内首发</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/df9154af0f03f48098f463bf43981d5d7ee31e09?/9595=xVk </p><br><br>
+<h3>华为、赛力斯合作模式调整：问界不再由华为主导，赛力斯接棒</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/af5b7959f7876c283c2d23e6b2a6525e49e404b6?/0766=dPz </p><br><br>
+<h3>盖茨基金会承诺投入10亿美元推动公平普惠的AI发展与应用</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/374de1a12a6d9502772547a6355ba73aa26eb151?/6069=iGZ </p><br><br>
+<h3>传华为与赛力斯调整合作模式，问界将由华为主导调整为赛力斯主导</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/cb7fd0d14323f22d599f0148355c51789f6c6a09?/6054=Kks </p><br><br>
+<h3>对话比尔?盖茨：中美大模型各有4家，能够保持最先进水平</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/8f3345d8b5f6fdd04e04a5298f823d60591dc516?/5477=Laj </p><br><br>
+<h3>字节跳动梁汝波：AI高峰远超PC、Web、Mobile，飞书要在AI时代抓住机会</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/89213f5301b7ac8f10475cc210d969bdffe37e59?/9702=YtS </p><br><br>
+<h3>车百会年会暨智能电动汽车发展高层论坛（2027）将于2027年1月22日-24日在京举办</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/c25383e6087704a88cd3d586f0096cf7cb21405e?/3565=HUJ </p><br><br>
+<h3>一眼科幻 “科技性能旗舰”iQOO 16将于9月29日发布</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/cebcfab4f40d288c588d2db7f84d04ddb162ae5b?/6091=ynY </p><br><br>
+<h3>主导权变更！华为、赛力斯合作将调整为轻资产模式</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/dd4020589410d4f1838c27bda152753c6b6f5ceb?/0449=xQc </p><br><br>
+<h3>字节跳动发布公告：合作方勿向员工赠送礼品礼金、提供不当招待</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/21bed4d36ff2f128392de4a0e3b44385f8c3e31e?/3334=qwX </p><br><br>
+<h3>消息称华为将采用轻资产方式与赛力斯合作，鸿蒙智行聚焦资源加速其他“四界”成功</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/896403b1ca16c9e63b65bbdf77abaf6622a70c37?/9651=ZxS </p><br><br>
+<h3>字节跳动 CEO 梁汝波：过去 50 年 IT 领域共出现四次发展高峰，AI 高峰远超前三次</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/0c1904e03c7a982f7c0901d5fc64fc0e322a9a02?/4514=ojw </p><br><br>
+<h3>俄外长拉夫罗夫换上华为Mate XT三折叠 普京公开评价华为是世界级巨头</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/bd9416524d57d7f6ecad9059cbcdaae9083f7252?/3802=nxO </p><br><br>
+<h3>华尔街日报：夏尔马收拾微软 XBOX 烂摊子，每月数小时亲自回玩家工单</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/ba31c55e2631e3b2f57003eb5f89c20037dea938?/6850=Ysj </p><br><br>
+<h3>苹果接受三星明年一季度存储报价</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/c6421aa54b2799fa901954ed0e33413f3e33d450?/6452=EVO </p><br><br>
+<h3>iPhone 18 Pro直降900，苹果连续三年新品破发</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/f7c14456d8bb37200e7ab8c6ab64f80e012849cf?/2225=Env </p><br><br>
+<h3>白宫科技顾问抨击 Anthropic 和 OpenAI：你们要自己制造安全产品，别老想着靠政府干预</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/f1c11c61f93ceb9b49cd18174a21feb07cd757a9?/3925=sIT </p><br><br>
+<h3>HYROX失禁事件爆发退票风波，参赛者质疑：对卫生和安全保障失去信心</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/2b831a62078537990568c1e9a5f3030f92f58c7c?/6868=lSE </p><br><br>
+<h3>“AI+消费”赛道公司迎来业绩兑现期</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/7055977d478561c9fc1a21988c0b5c7804d15d25?/6946=XqU </p><br><br>
+<h3>麒麟9000C稳坐国产芯主力！华为终端领跑央采：453台擎云L540x、单价6920元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/3cf111622e03bbce2222170e4ce0bfdf7551f4ec?/0776=NCh </p><br><br>
+<h3>Airbnb爱彼迎宣布孔直秋出任亚洲业务负责人</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/7f12e7417e9012fe9c15f148e46cf656c9229019?/6883=Ltr </p><br><br>
+<h3>Stellantis 与加拿大工会 Unifor 谈判陷入僵局，安大略省 Brampton 工厂前途未定</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/d34cfbe5d583b5567c1ee81d0bedae6767d8e3d5?/9458=Ybg </p><br><br>
+<h3>卖不动了？iPhone在美国预售史无前例“遇冷”，开售半小时所有配置均未售罄</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/0aabf1b514b55ea2f9eb0fa2ec8b44b8506b52cb?/5680=sUp </p><br><br>
+<h3>Meta 对 Instagram 应用 AI 修图功能新增付费限制，需订阅 Meta One 会员使用</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/4c3bd1cfebb4a7c81bffa5f496db909dc6e7e64c?/8243=zOg </p><br><br>
+<h3>消息称特斯拉计划在越南设立子公司，进一步扩大亚洲地区业务布局</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/52b03cfd0375cd4c21319289a2a54c966102d5d5?/5643=gJc </p><br><br>
+<h3>丰田美国纯电版汉兰达车型推迟至 2027 年投产，消息称此举导致经销商库存告急</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/5bfadace03c05408305eded9b603af828fd7f481?/4621=jPM </p><br><br>
+<h3>《红霞岛》前创意总监反思项目：服务型游戏并非工作室专长、将从中汲取经验</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/76e98d21838626551f787ea0c04500588ea71c2f?/8111=sSL </p><br><br>
+<h3>未来能源 高温超导与AI双轮驱动 “人造太阳”加速迭代</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/6a5620a4e7461ec8564dc985370bdccd51e695b3?/0518=BSc </p><br><br>
+<h3>20年一遇 美欧日三大央行将同步加息</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/fbc77af495c64d4ee33596b16bd41219ab2c88eb?/7321=FSC </p><br><br>
+<h3>比亚迪重卡明年开进欧洲 李柯：在欧洲卖的车最终都要本地造</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e5621b7658e7650b0fbca56ffcaaab5da8b65d22?/9595=dJB </p><br><br>
+<h3>90万一集的AI长剧 凭什么让芒果市值五天暴涨133亿</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/7d28151f8e81dfaf6f8a11b06f144b9f51cb4819?/2100=mXB </p><br><br>
+<h3>雷军今晚到访宇树科技！ 王兴兴全程陪同，雷军现场“踢踹”机器人</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/0b4e508b7c2b7a0afed5c13b27de80f05b7827e6?/9709=hiV </p><br><br>
+<h3>马斯克旗下 X 公司与 SpaceXAI 撤回对苹果的反垄断诉讼，针对 OpenAI 继续追责</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/4e5577ce2bd33be16233d66584d64262236d224e?/7109=ErZ </p><br><br>
+<h3>华为Mate 90系列配置曝光：双层OLED+2亿潜望长焦</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/3164727c224758bd77e7f6db91df0b49ca8675d3?/1373=wZE </p><br><br>
+<h3>东风汽车发布三大计划，推出“东风有信”用户服务品牌</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/9bbf1e080faf1a0b47788dace5891ae402e1346c?/9703=XRP </p><br><br>
+<h3>广汽集团：与一汽股份签署《意向协议》，计划购买其持有的某整车合资公司部分股权</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/d1353a1d8bef2f160f7207474223342c11f35793?/2939=UvT </p><br><br>
+<h3>德国称暂停 AI 开发对欧洲而言不可行，呼吁中美参与 AI 治理</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/fc1a71ec7d180125ac5566bd8480dbb9394dba60?/6955=ZFL </p><br><br>
+<h3>美国总统拒绝AI降速 OpenAI COE再表态：AI必须为人民服务</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/eae2ca54eac0a2d69a174775f924e7b014e82e09?/1213=RrS </p><br><br>
+<h3>小马智行发布第四代自动驾驶重卡 Robotruck，将于年内规模量产</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/58e5a324b7b57e1dac4751fab91cd91e366b97a5?/8240=TDW </p><br><br>
+<h3>消息称高瓴创投合伙人严文韬有望加入 DeepSeek，担任首席财务官</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/fd362590e740948f3964112e5dedbc08805ad720?/8872=SZC </p><br><br>
+<h3>消息称美团海外业务组织架构完成重整</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/1b9807619dbbc95993570347354d5a00978e2581?/4303=ILC </p><br><br>
+<h3>消息称铠侠控股拟通过赴美上市，筹集至少 100 亿美元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/841e252767fa706a2dbd067bb5c6ad29040174b4?/6634=tjS </p><br><br>
+<h3>内存价格疯涨！国产迭代旗舰标准版集体砍掉16+1TB版本</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/f932df252a10684808a4ff96bd90ac144f8fdf2b?/9566=rlj </p><br><br>
+<h3>福瑞泰克4D成像雷达获头部车企定点，产品拓展至合资品牌</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/4069a82cbdde31e6596e46bfeb211d89e837a3ac?/8969=Bsn </p><br><br>
+<h3>文远知行 2026 财年半年报归母亏损 7.9 亿元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/7b31365ec6cd9090124377a468b2e214fb88217c?/8442=UoR </p><br><br>
+<h3>灵核数智联合浙江雅虎推进岗位级AI应用</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/05358eb711c9c4004384079be9d416e365a9987e?/4536=UhO </p><br><br>
+<h3>AMD锐龙全新AI芯片上市：连发9款新品，支持本地300B大模型，最高192GB内存</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/faf5d9d642b1ba51d2d122b369c23db0bdb1b76c?/7174=iGO </p><br><br>
+<h3>OpenAI总裁：为AI开发减速应主要针对前沿模型</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/8f5ebdef702ca85c28592617b273f4292a965a2d?/5289=obo </p><br><br>
+<h3>“老板媳妇刚生完孩子，都敢吃”，央视曝光美团月销千单外卖店，店员光膀子徒手处理烤鸡</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/45145f64650aacc1410a33320c28c950669acf68?/4299=dRA </p><br><br>
+<h3>iPhone 17大降价？苹果客服回应：官网没有调整，授权经销商有自己定价权</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/975f95a92aadc83ac50f0c73b7f09c1f8cec9953?/6192=faT </p><br><br>
+<h3>比亚迪执行副总裁李柯：计划明年推出采用固态电池技术的车型</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/fec1696b037a7e1a531a2812d73a86f8bff0fc3f?/0927=kSa </p><br><br>
+<h3>岚图梦想家 9 将于本月内正式上市，预售价 42.99 万元起</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/425570de606342fcce1a99a99e7da2ceb7dae635?/1794=uZq </p><br><br>
+<h3>部分惠普用户反馈无法安装微软 8 月 Win11 累积更新，开机卡 HP 标志界面</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/77d7a2576a9f71adaca782a0c158d0e86ca6e07f?/6042=Owm </p><br><br>
+<h3>华为Mate 90 Pro Max全球首发全新OLED：峰值亮度达到1万尼特</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/b51aae1bb8db5049d9f9ed5c32e2cf4e4d48b15f?/4240=WZg </p><br><br>
+<h3>多家美国顶尖 AI 企业 CEO 呼吁放缓技术发展，全球 AI 概念股集体下挫</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/afa006ec94f2ca236be8bc5eb00210cba996341d?/5683=Lit </p><br><br>
+<h3>手机迎来新一轮涨价潮 或延续至2027年底</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/5859f0a637fbc16ac3f4b25833cee9b9ec9a17fc?/5208=ayI </p><br><br>
+<h3>欧洲人工智能相关股票因呼吁放缓研发节奏而下跌</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/25d993cb3e77fb0c8356a9de0b87f4e2e247abca?/7806=WxL </p><br><br>
+<h3>比亚迪执行副总裁李柯：随着闪充技术的普及，燃油车已经没有未来</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/c659076e340e54833be79c1bbac50d7e4641a968?/1837=MxY </p><br><br>
+<h3>名创优品原创IP YOYO全球销售额单月突破2亿元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/db9ce4dc7c553cd478fd6870116e434812fa82f5?/0081=ZQV </p><br><br>
+<h3>半导体人才争夺战升温：美光、闪迪赴韩抢人，三星加码薪酬与股权留才</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/c44948b773fe769629fda692ed5b5399c1890f6e?/7752=jnl </p><br><br>
+<h3>宇树G1+全面升级，售价9.5万元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/4e2166c2018827cd99ef6de6d1dc19c548d576f9?/5432=blW </p><br><br>
+<h3>小岛秀夫与微软 XBOX CEO 夏尔马会面，谈合作项目《OD》《PHYSINT》</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/541754b4dfc14ad84bd0fd7296d2a261a5948d4f?/5159=TEU </p><br><br>
+<h3>古尔曼预测：iPhone Duo 只是开始，未来将有 Duo Max</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/f61bb2eaacfdfd0db4c90ec635f44f165a68cd32?/3817=XPf </p><br><br>
+<h3>雷军现身B站总部，陈睿亲自迎接，B站员工高呼“雷总好”</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e563f7fca279f21b748d2707731fd70b9b2c3249?/9712=Dur </p><br><br>
+<h3>美光、闪迪赴韩争抢半导体核心人才，三星加码薪酬与股权激励应对挖角</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/333d7b826ac76d5508e48a22af4a196e2bbd90ac?/9379=aVS </p><br><br>
+<h3>苹果发布iPhone Duo后华为卖更好了：Pura X Max销量环比上周暴涨76.5%</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/9c29623bc7b22edd1996164205af8215f7eb629e?/0180=BVJ </p><br><br>
+<h3>央视点名品胜充电宝起火隐患，客服回应：在售的都没有牵涉到召回</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/bab46187deab38fd22b83e339fa56cc0b7f1208e?/8618=pil </p><br><br>
+<h3>华为智能门锁 M2 上架：支持 AI 指纹解锁、配备 EAL5+ 安全芯片，799 元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/25d9289b6d051f2fb93f59e50941324945876b20?/0971=NNt </p><br><br>
+<h3>消息称苹果发布 iPhone Duo 后的四天，华为阔折叠手机 Pura X Max 销量环比上周暴涨 76.5%</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/b8c50d2e77ac6c3324bb5740f485e76f1fd8dfdc?/5542=qfi </p><br><br>
+<h3>不到10万营收撬动近翻倍行情 龙版传媒AI漫剧炒作背后的“估值泡沫”有多大？</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/ffc6e99a21b46c518d8cdc5d1dfca08f77bde1c5?/2967=xTX </p><br><br>
+<h3>消息称华为阔直板手机 Pura X View“卖爆”，销量突破 30 万台</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e7663ef428fc9e27bd4d55350f831f24f74cf0ec?/5117=tpG </p><br><br>
+<h3>遭罗永浩公开吐槽，网友建议不要回复，野人先生听劝了</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/430fdcd05ed4d1f046cad467a4cfe3991b3c9921?/1364=KHy </p><br><br>
+<h3>芯片新创 Kepler 亮相：利用 FeRAM 与 3D 堆叠突破 AI 内存瓶颈</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/27d4a0bf5cb04a87058b65697fdcfbf657953c47?/8925=OoK </p><br><br>
+<h3>奇瑞捷豹路虎神行者 8 官宣 9 月 19 日全国交付：华为乾崑智驾 ADS 5，28.99 万元起</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/24890ba7b219d4bd442c161fdcce1dc7783f0124?/4803=KMR </p><br><br>
+<h3>鸿蒙智行享界 V8 测试车谍照曝光，有望搭载「原生车顶帐篷」</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/807588e2297279307bb3472ac8d36d5e2e2e2da0?/1825=ApS </p><br><br>
+<h3>宁德时代收购吉利重庆动力电池项目获批</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/be6766e4290ea712205dea4b938e465baa16f1f6?/2436=QOw </p><br><br>
+<h3>成交均价过百万！消息称鸿蒙智行尊界周度交付重新回到 700 台</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/a279b9632c355474df3bb3017056a1737de988bc?/7286=rxd </p><br><br>
+<h3>PayPal苏磊：中国出海商户多元化，AI正重塑购物路径</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/d5648b2de13a6db63d3f3d2e24fb854359dede0f?/9533=GJO </p><br><br>
+<h3>理想汽车 CEO 李想：纯电架构的天生优势，决定了尺寸军备竞赛一定会结束</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/8fd431bf11aa40eb276d9744d04dd3169f31d092?/8735=MJi </p><br><br>
+<h3>百家号App改版通知：更名“百度直播伴侣”，9月22日实施</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/b073fc45b878529dcedcb7342c63d541fc1b177d?/8123=KWm </p><br><br>
+<h3>2026崇礼论坛：俞敏洪称AI能解决效率问题，却无法替代人的最终抉择</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/451d7d7c73d9b47cbb2ecd79867acd1ec47f3fe8?/4102=ZYq </p><br><br>
+<h3>九章云极尚明栋：算力行业要建立DCU与Token“两层账本”，推动算力从资源走向价值落地</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/19b789e7251599e955e3bc650c66fd7085fed39f?/2659=LOE </p><br><br>
+<h3>HYROX背后商业版图曝光：万达48亿甩卖，接盘方为LV背后资本</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/099bc870f672092dee17d9e15d157ca6d115e341?/9382=Iuy </p><br><br>
+<h3>海正药业出席 BIOHK2026：转型生物制造，布局大健康</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e4328db33ab111a48715089f9193401af94dc6a6?/0791=ksR </p><br><br>
+<h3>广汽今日紧急停牌，此前传一汽拟入股推进联营，相关人士：具体信息见收市后公告</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/01aadf48172198ca1693db125cdbac4fbf3b12c3?/8581=lLe </p><br><br>
+<h3>豆包手机助手发布消费者版本 首款新机将于9月16日正式开售</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/7f9af7eba5cdee57fa98188b3ef057ffc7980df8?/2166=mZj </p><br><br>
+<h3>农夫山泉起诉“国赤山泉”侵权索赔15万，创始人：还未投放市场，样品早已下架</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/91628299e792ec081d0636fbb8303504207c5539?/4792=Bbe </p><br><br>
+<h3>HYROX回应赛道污染事件，称将严查社交媒体上的暴力威胁行为，网友质疑“专制傲慢”</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e0a3e146e5330e244cc93b9bf8fc584d04768d9e?/6395=Kno </p><br><br>
+<h3>三星、SK 海力士拒绝韩国电力 25 万亿韩元提前付款计划：原因为半导体未必能持续繁荣 5 年</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/ae394b54e2c2ed6aafd008d84d136f492dc3c970?/5956=bHp </p><br><br>
+<h3>市场九季度连跌，这个赛道正在经历什么？</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/aaae10ded944ad55949447d850af76b6ea972b92?/2200=Ohk </p><br><br>
+<h3>首批搭载麒麟9050 Pro！华为Mate 90系列五款版本曝光：高配预计涨价1000元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/c0eb841809014c7f85514a793e343078e6f494be?/1913=WxL </p><br><br>
+<h3>宝马干了特斯拉不敢干的！旗舰纯电轿车i7在印度量产下线</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/d88d5f61434cc231968a88267eff12b969e2bcf9?/9179=wBF </p><br><br>
+<h3>苹果华为小米折叠屏三国杀打响！折叠屏从安卓试验田杀入全球主战场</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/4f6403ba739fabcfdb62b6ae846ddd8f695e9e39?/2001=mWX </p><br><br>
+<h3>中国联通：支持国行所有 eSIM 手机业务办理，针对本月新发布的华为和苹果手机推出尝鲜季活动</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/48576ca549a6700002d498a870e91349a7d452aa?/7222=zik </p><br><br>
+<h3>苹果A20 Pro打破跑分记录！干翻一众桌面CPU：对比玄戒、麒麟如何</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/19cefea91439ad632c6f2d7869b05ea4e3cf5feb?/3955=EQH </p><br><br>
+<h3>赛力斯张兴海：只靠硬件堆砌是造不出来豪华车的</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/d0b6ca764d4b1e6ba9a508f0bfe30caeb6812144?/8800=rOn </p><br><br>
+<h3>智谱约50亿美元融资落定，加码下一代GLM基础模型、完全自训练及算力基建</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/9adb3fadbde4aa2fc76938cbd42b911bff224484?/5578=PFJ </p><br><br>
+<h3>英伟达员工离职创业，黄仁勋坦诚建言并投资</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/c87faf9081babbc58e588e433c047d9320458f5c?/7815=Tty </p><br><br>
+<h3>多位 AI 行业高管呼吁放缓前沿模型研发，分析称芯片股短期承压</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/91d22743f74b04127c1ebe3dedf63d7d9de8c6df?/6697=dEV </p><br><br>
+<h3>补齐影像遗憾：华为 Pura 90 标准版手机开放 XMAGE 相机水印</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e161bd0c59d2b72dbdf3f0d1104265417129145c?/5329=sCV </p><br><br>
+<h3>9 月旗舰手机集中上新，京东物流部署过万个前置仓站</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/c48e019563e8349955b394cdd583b55b6730f386?/2880=bBP </p><br><br>
+<h3>智慧生活华为家庭存储适配 HarmonyOS 系统，新增支持整机备份功能</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/b304a9b301d6f46963ec1fa2dcd017beeac80e53?/5184=ppq </p><br><br>
+<h3>赛力斯张兴海：只靠硬件堆砌难以造出豪华车</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/8cba47a3bea8970cdeabd7c779d103d970365f66?/5525=YFn </p><br><br>
+<h3>卫龙回应进口魔芋粉情况：该批原料已按法规退回</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/15076a5e2f53edb19e0e62f58fb0618f51307536?/5191=ETV </p><br><br>
+<h3>行驶过程中油箱可能脱落，福特在美召回 22.3 万辆 F-150 皮卡</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/aaa5a98f3447b2c52656f7687be86946af4f9831?/2724=Gbr </p><br><br>
+<h3>美国边境主管偷换 46 台政府电脑硬件，以旧换新套现遭 FBI 逮捕</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/74288bd62b66ad9fcaa86e7e3804e571b6d2e20c?/4890=zQd </p><br><br>
+<h3>现代汽车将于 2029 年推出自研辅助驾驶系统，较原定计划推迟两年</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/3a558a84864c22ada0a9f2e34475f4f9aab12d55?/2695=rxp </p><br><br>
+<h3>儒意电影：“拼好片”模式已跑通五大内容品类</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/1e9b3526594634503f08ab7c3e70db95330a3597?/1838=tdl </p><br><br>
+<h3>车主手册披露：特斯拉 Grok 将支持语音收发短信功能</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/8c70ce55ec78c4893b56220d8e0d8bd4f3d71431?/4870=eMw </p><br><br>
+<h3>奕境曾清林：今年内服务网络将扩大到全国 150 城，基本可覆盖全部省会城市和绝大部分地级市</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/60d471fb0d63081768f5242592157f78f1dde224?/9032=umC </p><br><br>
+<h3>iPhone 18 Pro首发火爆 淘宝闪购：预售首小时销售额较上代翻倍</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/73d5e960909fabd9ce57d9af7ab4e5c00432db29?/8383=fis </p><br><br>
+<h3>图灵量子发布第三代光量子计算机</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/32b7b8555bc4a7610f423978762a063722bd8889?/8140=cWg </p><br><br>
+<h3>全网震撼！菲奖得主未解难题，竟被两名高中生用AI攻破了</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/b4c3863668228eb44435ce7229ac14def955a296?/8612=hpf </p><br><br>
+<h3>AI三大死敌罕见联手！“AI股票”周一遭暴击？</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/be818d176db75c35755abfe227d335c613a2a6a0?/1001=KrJ </p><br><br>
+<h3>时隔多年苹果再拿华为做对比，Apple Watch 心率准确性研究将 HUAWEI WATCH 5 列为“唯一的例外”</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/63c241d94b5304cbe356a37aa25aa8e2dbb5e267?/6498=Ypi </p><br><br>
+<h3>Kimi、BAI、自然选择谈智能体新商业：AI支付增量来自硅基生命的支付</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/0a96db91caa9e26b7a1cbe1c0ee0f9bb67c7024b?/7941=nFn </p><br><br>
+<h3>视频|银河通用报案 邵兰天回应：与我无关</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/a88f3b4480e8a54e0190ee7306a912858a2921b4?/6682=ehk </p><br><br>
+<h3>突发，OpenAI今年不上市了！</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/a7c8d33b51d892940ba219458b5757b8bb61b307?/8937=SUP </p><br><br>
+<h3>优必选超级智慧工厂投产，打造全球首个万台级产能人形机器人智能制造产线</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e258b65317eb2719df6ffb5d69650783d7c05bbc?/2882=qCL </p><br><br>
+<h3>独家|小米人事调整：唐力担任国际业务部副总裁兼南亚地区部总经理，向曾学忠汇报</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/35c42640cbdd697601fde3b9caded430d33758c8?/0999=ppE </p><br><br>
+<h3>泄密问题频发！游戏厂商重拳打击“内鬼”</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/de8dbcfb2e20ae460e291dd48c80463c74821189?/5941=eSm </p><br><br>
+<h3>华境 S 今启 OTA 升级，华为乾崑智驾 ADS 5 Pro 上车</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/b34547fadafa9858767a0712c7ccb80f1883f0f9?/7779=heN </p><br><br>
+<h3>选手比赛中现场失禁？HYROX：将更换地毯，并开展全场深度消杀</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e0402928f50ebea03891a6bc57425297bfd67004?/8217=UYI </p><br><br>
+<h3>越南特斯拉掌门人让位！越南首富一天内将两家公司CEO位置给两儿子</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/4c4625bd60f147a4ef1f018472674eda6ca86f3b?/9152=JkT </p><br><br>
+<h3>油箱可能开着开着就掉了！福特召回22万辆美国最畅销的皮卡F-150</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/8496c29d2734d1f5dab2c79a92fd2749ca78823d?/9279=IMy </p><br><br>
+<h3>热搜！iPhone18Pro系列发售，网友“吐槽”抢不到</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/ff9e5e0307d86547de998179b18f3ffdff3287bb?/8064=AOD </p><br><br>
+<h3>估值冲上400亿，智元老板猛招应届生</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/dd795c429fd2144c634034f48b7879b7f4408feb?/2106=fDJ </p><br><br>
+<h3>苹果 iPhone Duo 手机新增“Shift Left Edge”功能：开启后加粗左黑边，解决保护壳轻微遮挡外屏问题</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/fd5962857e61a14df466288841d58b9edbbde5f5?/4495=iKS </p><br><br>
+<h3>消息称华为 Mate 90 系列手机将延续星环设计，还是本月下旬发布</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/1b742886e2d16194885a0f5742d08fdf11c71658?/5105=OAU </p><br><br>
+<h3>微软拾遗：32 位 Windows 限制 4GB RAM 内存并非技术受限，而是出于驱动稳定性考虑</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/cf6d40363a366c8bcab6502bd822b34b05dfe447?/3340=MhD </p><br><br>
+<h3>光模块全球第5，年入83亿，海信第6个IPO来了</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/1637ad67b680695e58ea2279d62888f153df7a7f?/0876=uGH </p><br><br>
+<h3>7月智能手表线上零售额环比下降31.9% 苹果零售额份额提升</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e6c456892f5c64714051415aac79086435d67961?/3931=guV </p><br><br>
+<h3>折叠屏争霸战打响！华为秒售罄，苹果被炒到49999元，小米起售价首破万</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/7c7246585ec3ab9533e88dd101f2b8bc07a5091a?/7571=hoC </p><br><br>
+<h3>iPhone 17 Pro迎来史上最低价，你会买吗？</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/3eeee9d8d5f13c487a808a6383bbe13833e25be4?/4311=QVD </p><br><br>
+<h3>事关太空算力，四地倡议共建产业长廊</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/03c80c1ff7dd6fcf90590a4bafc8134e652a5901?/8978=KLY </p><br><br>
+<h3>原茅台董事长张德芹现身贵州酒博会</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/301e4b6822213bc874925bed024c223e5dc19b65?/7870=heC </p><br><br>
+<h3>岚图梦想家9预售48小时小订3万台，礼尊版订单占比超五成</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/258d371073ad92740e0d781e1ac376637380f6a5?/9737=TPx </p><br><br>
+<h3>马斯克抨击纪录片《马斯克》导演</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/7f143617d0c8daf8e6e0832f6492e5c6e6b76c4d?/5850=pcp </p><br><br>
+<h3>俞敏洪：人工智能能不能把人类干掉，一点也不重要</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e790a607c6964f0a186dd774e0032c86b3ce064c?/1969=DTz </p><br><br>
+<h3>从无人车走向AI服务城市治理 九识宣布城市级物理AI战略升级</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/a0d2cc12e567ddaa62683195739d3a41da2a7d3e?/7956=pUJ </p><br><br>
+<h3>俞敏洪谈让传统企业自己搞AI创新：“比拎着头发离开地球还难”</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/a9a9cef3a76c4046b9e655a12054665594e61f2d?/3862=aYB </p><br><br>
+<h3>俞敏洪谈AI教育乱象：题目一输入答案就有了，孩子们连脑子都不用动</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/18516c3fcfeeea626e81e47a068d280ebfbe17a3?/9691=QyF </p><br><br>
+<h3>俞敏洪：人工智能可能加剧社会贫富悬殊</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/9b4a32f129bf70afcab6b6cee11c0e08f0e4694a?/9729=SGW </p><br><br>
+<h3>俞敏洪：要把孩子教成“比AI更像人”，而不是“更像AI”</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/3a394116fca830f3dd223a28c6cb41ddd5111d2e?/8496=yui </p><br><br>
+<h3>VinFast创始人交棒其子 推进业务扩张</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/eb50a3404d157ae9f4a40aec67d5f77c002cf5dc?/2453=qBl </p><br><br>
+<h3>波音向工程师工会提交最终提案 包含10%加薪</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/70be7611b7e27f57a5da304a0ea068d146ac2f98?/7628=IbZ </p><br><br>
+<h3>5000亿DeepSeek冲刺科创板，为什么是中信证券陪跑？</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/6ae01e82a1ba5a509383c23d2679c25efd61ba8c?/1776=pAN </p><br><br>
+<h3>OpenAI证实其正在测试的AI智能体在今年5月对RubyGems发起了网络攻击</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/b32daaf5dc0c15958c562115f8a1642b42f17cb0?/0938=MTw </p><br><br>
+<h3>荣耀“魔法画报”事件当事人澄清：事件与荣耀无关</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/aed58b93084af377542adc872d8f22d8840f75ea?/2870=jBO </p><br><br>
+<h3>为何10年期美债收益率今日回落？经济学家：短期加息预期升温，通常会推高10年期收益率</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/ad002b305634585e1e6d88bddbc83fca87895b32?/8097=AUv </p><br><br>
+<h3>魔芯科技新一轮融资即将完成，估值提升至近百亿元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/28f74352ede9b46b1d8c472a006a071ab54a05a0?/8435=qso </p><br><br>
+<h3>周鸿祎：AI已改变网络攻防格局，构建“以模治模”为核心的自动化攻防新体系</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/7df8a373b28a0cafd8b5c5092c7f3f516085c128?/8915=Qde </p><br><br>
+<h3>美联储传声筒Nick Timiraos：高于预期的通胀数据，进一步支撑美联储于下周加息</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/2830802ccd5dbc3c32d96022526397d0117dcdd4?/9811=gjZ </p><br><br>
+<h3>美国8月通胀率3.4% 汽油价格依旧高企</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/79d0a0ddf654938a0e8161caae1dbc3c94f82ad0?/7191=ORh </p><br><br>
+<h3>iPhone Duo预订价冲高至39999元，较起售价溢价2.4万元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e92c21f5bdfc7d6e0cca0fe6ed3a3a4d81a07dbe?/2597=jZo </p><br><br>
+<h3>Anthropic发现也门一团体利用Claude协助研发导弹和火箭系统</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/55f7f210575cc31d05d31fe0251c5346e660602c?/7007=mgt </p><br><br>
+<h3>Kimi K3 模型“突破性”成功，消息称月之暗面瞄准今年年底 20 亿美元年化收入</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/f95dc916b59744a0bab4cadfe04a0ee1967a48d1?/8120=Ali </p><br><br>
+<h3>在外滩大会上，我看到下一代健康 AI +硬件的样子</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/1c78d6c6a90c08b8dc28b267dd96083ba90e01e7?/6285=tle </p><br><br>
+<h3>月之暗面借Kimi K3加速增长 2026年底年化收入目标20亿美元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/51889a29b066be36603d1509d217862e21d380fe?/1107=PCt </p><br><br>
+<h3>试用期被劝退员工冒充业务负责人引流付费咨询，抖音：拟起诉维权</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/1e6a93fa234de4bd45e9b3b75296607020ed7aa1?/3056=Wld </p><br><br>
+<h3>2026上半年折叠屏面板出货量揭晓：三星占比51% 位居第一</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/f44dc28c5b8bafede08f0aa7e62d4440ddd440cc?/7949=bDK </p><br><br>
+<h3>消息称阿维塔酝酿高层调整：董事长王辉已开始负责长安海外业务</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/1fcdf6796b0e4fe60de31174ab9b4bcc35ca048c?/9044=LdQ </p><br><br>
+<h3>美银：美股出现1月以来最大三周资金流出</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/49a0544247b46766db3e9e8095d81af6d1afc513?/1966=snz </p><br><br>
+<h3>加速去宁化！理想i6官网停止接单：新款即将切换自研5C电池</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/dab935070ae51f25358461eaaaa025e82877d76e?/9653=QXd </p><br><br>
+<h3>AI算力反超GPU！苹果A20 Pro新特性曝光：双16核NPU强攻端侧大模型</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/113acb7e3fd7652594d1446313187cb24e29c08a?/9653=pRn </p><br><br>
+<h3>消息称美国国防部考虑向 Neocloud 企业 Fluidstack 提供约 50 亿美元贷款</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/2e13851fc05a86cddb5832af6a09b11b975a968e?/0118=FSP </p><br><br>
+<h3>国内首个智能体可信身份工作组成立，阿里、华为、OPPO、联想、小米等加入</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/7c84769632b6f28c97ed11369a06ccd0c9efe8e7?/7792=NOU </p><br><br>
+<h3>大量特斯拉车主开着FSD在路上睡觉 美众议员致信交通部要求制止</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/01bec88940c064cb2632c1cb6901850a5130cf92?/1293=Jgd </p><br><br>
+<h3>奇瑞拟在英国推出“新旗舰”SUV 瑞虎 X，力争驾驶质感看齐德系车</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/911191105b1e05c48b05124e7b6e55c137ce92ec?/0018=Zhq </p><br><br>
+<h3>芯片材料国产化重大突破！高纯石英首次打入DRAM大厂：用于300mm晶圆</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/76892478e2c73ca2a3448bf2c9a1046aa2860de3?/0663=tFx </p><br><br>
+<h3>卢伟冰：小米 18 Fold 西野红顶配版线上全渠道缺货，部分小米之家有货</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/6b95e190d994c47acaa8a22ce9e4bcd704cb96f9?/1880=mVu </p><br><br>
+<h3>蚂蚁发布“灵影”开放平台 AI眼镜等新终端迎来Agent运行底座</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/6803de2fa916d8c45defd2668446d92fbb10ef8b?/5633=vzJ </p><br><br>
+<h3>中国汽车全球首次使用折叠屏，京东方 2025 年演示引热议</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/2164d25a02bb7785f355f810bd0525f5c7b79f64?/7147=KpW </p><br><br>
+<h3>蔚来乐道 L80“星光设计套装”发售：星瀚蓝车身色、21 英寸多辐玄晖轮圈，限时惊喜价 10080 元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/fa37c377ee279dab6177c3cdc69a5461bbe14e9a?/4924=Rtu </p><br><br>
+<h3>微信零钱通将不能用于消费支付？腾讯辟谣：相关功能不受影响</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/2bf179bfe84c22caa37ae011514359cd03f99f0c?/7737=XSJ </p><br><br>
+<h3>库克坦言：亚洲市场折叠屏的普及，让苹果加快了脚步</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/7a478cde8445335596e2c6cdceeec8f11970c0cf?/4000=Elv </p><br><br>
+<h3>支付宝“碰一下”推出无界经营</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/bffcae165ce7eede8079c1ad2b94c1ad6991ecd0?/6144=JpH </p><br><br>
+<h3>美交通部长要求福特切断与中企的合作！福特怒斥其是政治作秀</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/cbc9dd4de28d432603d188df6e6611b5acddef86?/6323=TaQ </p><br><br>
+<h3>剧集中报：长剧市场持续收缩、含“AI”量成业绩分水岭 大晟文化资不抵债、欢瑞世纪毛利转负</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/f45c0e4ed9e70ebd0c1ecb5b3c57ce7e66ad1f6b?/5134=DxD </p><br><br>
+<h3>华为Mate XT 2 非凡大师：集大成的展翼三折叠</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/b0f0dcc0157e1c1662653cd01eac72e3eb7f9198?/3157=wDR </p><br><br>
+<h3>蚂蚁集团 CEO 韩歆毅：智能体商业的“ChatGPT”时刻已经到来</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/80eb109fe570fcf4b6d508b42d2cdeed78117dfe?/1041=haQ </p><br><br>
+<h3>支付宝将推 AI 钱包智能体</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/5503a19b1e3b5fc12668e91fb8bbf004e6ee85c1?/9147=bMC </p><br><br>
+<h3>卧安onero H1机器人亮相IFA</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/9e19107b5c81c14ac3b43bb53c486af2c4528413?/0718=ldc </p><br><br>
+<h3>加利福尼亚州颁布美国首份人工智能安全保障法案</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/7603ae5d21f45621ec284df157f7b5ec8e84bb00?/8737=wdZ </p><br><br>
+<h3>近年来首次：国产芯片包揽中直机关笔记本采购，英特尔 AMD 未入围</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/8e9388c7b92db9789eee2ed7201226a5da958558?/0983=clR </p><br><br>
+<h3>顶配占比超五成 岚图梦想家9预售48小时订单破3万</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/3493e57ea604d216055a3265ba39af90ae93e7f2?/9761=Poo </p><br><br>
+<h3>蚂蚁集团CEO韩歆毅：智能体商业的“ChatGPT”时刻已经到来</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/355100b3a835cfbd83812cd1116ef35e0ec86988?/2324=qCO </p><br><br>
+<h3>美团第11年发中秋礼盒，王兴致信谈AI：坚守长期价值，一步步走出未来的路</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/21d99c1ff459ce87dabd46522afe510744fd4302?/8422=ppP </p><br><br>
+<h3>库克承认：iPhone Duo就是跟着华为三星跟风做的</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/838dc2873f942ff8009fe1a6689ff40a26cd98b7?/8966=bGY </p><br><br>
+<h3>智能体代买5个月增长7倍，支付宝将推AI钱包智能体</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/939cff3fd6095dd9b10b2e377095ca164d0aac8c?/7884=grJ </p><br><br>
+<h3>让机器狗替你买东西：支付宝宣布首推“AI 付 · 具身智能”，网友戏称“狗腿付”</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/3fc933c7154b2cf2cb1341136cc387d22e2ecb19?/5703=aiu </p><br><br>
+<h3>索尼 SIE 在集体诉讼中称“消费者并非拥有数字游戏所有权”，玩家列举官方先前措辞清单“打脸”</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/abb07f2e8d00d2cd0a2571020cee2c9b146ff001?/4878=UEM </p><br><br>
+<h3>首批 8 家华境汽车专营店开业：高端门店标准，不挂五菱标</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/eb9f9fd1a562db8a7488fb2a9712bccf409e9867?/2046=WwF </p><br><br>
+<h3>蚂蚁灵波CEO朱兴回应“融资原因”：不是因为缺钱缺卡</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/6df5e26db0d1d8f61a8dd0dbf1239c003c90ee5c?/3540=bVa </p><br><br>
+<h3>苹果 iPhone 18 Pro/Max 升级电影效果模式，支持 4K 杜比视界 60FPS</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/da9ad69fbbba85aba9fe984f8c39f6447b6eeded?/5011=BkO </p><br><br>
+<h3>霸王茶姬携手它基金开启“流浪动物回家之路爱心计划”</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/37c501cee8a1c40028f305014198ba70b68b139c?/8025=rUr </p><br><br>
+<h3>燃油版升级 纯电却被砍！沃尔沃2028款XC40发布：EX40遗憾离场</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/9f3cf4cd1f5abeb231646c56c9a4e04b52fee801?/3941=eEh </p><br><br>
+<h3>苹果 2026 返校季活动更新：AirPods 4 升级为 AirPods 5</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/d3e397f469b56b36eb5bb3eabae7fb53bde35d83?/9026=Swg </p><br><br>
+<h3>余承东发长文谈家用出行痛点</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/28c7a2accc8708e97b93c7ed574aa3de567de101?/5676=dzJ </p><br><br>
+<h3>AirPods 5上手：两个版本 三项提升</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/c93cf2de4b21d1b39a6e218b35b4cc838ae9ece4?/4859=KWm </p><br><br>
+<h3>特斯拉中国上线全新Model Y全轮驱动高性能版：百公里加速3.5秒，售价36.9万元起</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/77e1db31318bd8e019e107a6b510096e0766d557?/0847=CQs </p><br><br>
+<h3>字节开始激进了</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/a83d710d3516780f2784d445292e935705d42cff?/8385=Zdr </p><br><br>
+<h3>三星 Galaxy SmartTag 3 智能追踪器价格曝光：单只 29.99 美元、四只装 99.99 美元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/b4568289f01507621c4a74277546cd3c55d9b3f5?/6010=KZF </p><br><br>
+<h3>博通停止公开提供 VMware VDDK 开发工具库下载，要求 IT 管理员联系官方技术联盟合作伙伴获取服务</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/8cbea2a3801ed0625b81891e13b4382af2792f7a?/0903=Vja </p><br><br>
+<h3>人形机器人要扎根汽车工厂再磨炼</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/1a2f4f4db2dae6c0da13fbf3049b8d0496119e9d?/4902=UOh </p><br><br>
+<h3>三星讽刺iPhone Duo 罗永浩：苹果才是讽刺广告老手 成行业老大前天天干</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/c5ff4cf04b52807bd0ddc28817bd49d5d59d19d8?/5978=Wss </p><br><br>
+<h3>英伟达CEO黄仁勋称网络安全将成AI下一个重大市场</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/35854aa37f1a1373d06a071b41b922a6a0709e8d?/2339=jzh </p><br><br>
+<h3>像分析师一样做研究 OpenAI推出专为金融业者打造的人工智能工具</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/72f43c2c3cc83739a08e3136c54470224eb557e7?/4909=NyB </p><br><br>
+<h3>法国总统马克龙呼吁欧洲大力发展自主载人航天，力争 10 年内送宇航员上太空</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/4d27b2228bdabcc6fffb6a90c7a20007cdfe2aaa?/0971=tTq </p><br><br>
+<h3>阿里云创始人王坚：人工智能时代的挑战会由充满热爱的年青人解决</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/7a7bb465d8599075a9a1d083ca92277baa67c4d5?/9515=PYc </p><br><br>
+<h3>高通全球副总裁夏权：个人AI时代，每个人都拥有自己的智能体</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/c281a0c7f27b03f1661da49c6c675b5073ebd3d2?/5249=Ekz </p><br><br>
+<h3>银河通用：不参与无谓的口水战，不被短期噪音干扰</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/64516abc9685b7b977831bf3bbd469a52d631e6c?/3293=zgw </p><br><br>
+<h3>OpenAI 将为美国政府机构提供 AI 模型五折优惠，终止每年 1 美元试点项目</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/fdf090a0dba96103a620d46a93da2b1d49b1c1f6?/8810=dHd </p><br><br>
+<h3>大众史上最大重组账单曝光：裁员10万人、关闭4工厂 要花1200多亿元</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/dadb11bf3cf50c3517af41928dcf2a2ca475c72d?/4659=qmb </p><br><br>
+<h3>明星AI研究员离开Meta 加盟Anthropic</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/57e03a0ca90888ba01bf40a5fcb15c2085b1f3bf?/3421=qHe </p><br><br>
+<h3>???甲电池安?保障计划发布，与中创新航、欣旺达动?达成战略合作</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/2bf20351861eb639f1c3dcee5caf699607bf0fc6?/8560=JJr </p><br><br>
+<h3>美团无人机上海徐汇首个低空航网开航</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/c354f492c9ae690e70d29231af3ad47776065139?/0862=Cxz </p><br><br>
+<h3>GPT-6的Astra能控机械臂却叠不好衣服？四位大佬回应具身智能争议</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/1d156e5e98277d40ac384a7d81a168626c3f9f28?/7165=sqn </p><br><br>
+<h3>中兴通讯徐子阳：AI时代正从“人联网”向“智联网”跃迁，携手中国联通打造全栈全域算网融合能力体系</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/f52898f7dda98889fd03590953f0da6d85d3f474?/8119=IeS </p><br><br>
+<h3>嘲讽苹果折叠屏新机？三星官方账号发文：“等你热完我们的剩菜”</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/bd70492df63ba77efea2cd9eaa2ae2a0e79cc34a?/5406=zGb </p><br><br>
+<h3>华为Pura X View首销成爆款：多家手机厂商开始重新评估阔直板</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/08061436818311829e7d91b40415d4c9a75e27b0?/7596=bWN </p><br><br>
+<h3>全球涨幅之最：印度市场旧款苹果 iPhone 最高涨价 41%</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/ed7248d16357ffdd413a7ad45e1a0f2c13fc1f07?/7071=pRU </p><br><br>
+<h3>AI潮玩品牌IPTAG获千万级战略融资，策源高都基金独家投资</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/13239d6b35010c141a8bfbc7366f5de1fc2b46b1?/3153=WbO </p><br><br>
+<h3>全国首个，乐聚联合安徽电信、华为发布 5G-A 具身智能专属套餐</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/dc46f8c6801517f02f71a77c4cb3a61838dadf41?/1521=gmP </p><br><br>
+<h3>美军，突发！“另一警告”，突然刷屏</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/45d99a0f917f6aba37ff7d372c17ac36d61af25f?/2832=Fnu </p><br><br>
+<h3>泰国拟实施差异化电动车消费税</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e1a4ea1f82d1fa90da45018078fa3686c32a63a5?/5747=QDQ </p><br><br>
+<h3>人人影视回归仅10天再度下架，应用商店已无法搜索到</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/764f7c22ce9b04777c07fa2ae9dbee2f2db499d9?/9476=eNg </p><br><br>
+<h3>乐聚联合安徽电信、华为发布5G-A具身智能专属套餐</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/b27464ab0f4b7ff49355094be91319bc44a53b69?/3929=qKQ </p><br><br>
+<h3>蚂蚁数科首次披露业务表现：年均整体增长近50%，AI业务三位数增长</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/11cb24bdf4a5b39f371fdf243f5745e0a7da17ad?/9352=Fhs </p><br><br>
+<h3>福瑞泰克J6B方案开启规模化交付</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e44d404396a63eeb0350f2e6b9cd2c2a22f91ab6?/7610=Xcw </p><br><br>
+<h3>因模型入侵 Hugging Face，OpenAI 面临美国参议院调查</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/863662f916e37bd4a3a5e2875cefe6e9ebe03155?/0143=YxW </p><br><br>
+<h3>锦欣生殖携手季维智院士 拟打造一体化再生医学转化平台</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/876fb3d1828fa23e0536c1017bddff52daafb199?/8138=TnQ </p><br><br>
+<h3>携程美食林十周年庆典在新加坡圣淘沙名胜世界启幕</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/c19bae03fd8b25139546c7a079e2b97077b910cb?/3159=QzI </p><br><br>
+<h3>SK 海力士节水目标：到 2030 年韩国生产基地累计节约 6 亿吨水</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/004369922730fe26d94faca78dafd76eea09593b?/8937=nBx </p><br><br>
+<h3>IBM与洛克希德·马丁宣布在苏黎世联邦理工学院设立瑞士量子创新中心</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/dd878b78e91876c19562624f43c6481507e354fb?/8231=yAz </p><br><br>
+<h3>蚂蚁森林发文致“下一个十年”，已种下超7亿颗树</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/2705945ad751cfe82b270aae83ec1311cd707f6f?/2246=NFE </p><br><br>
+<h3>马斯克下场回应AI吹哨人风波：他确在Anthropic任职，但时间很短</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/85b8b1cffcbebc0a605c44fa8f81747e2b683a8f?/2820=rFv </p><br><br>
+<h3>蚂蚁集团 CEO 韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建设</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/792c674956558e992527f36e7e43fc0e398da180?/2901=QkT </p><br><br>
+<h3>文远知行获西班牙首张L4级自动驾驶乘用车运营牌照，Robotaxi商业化服务年内上线</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/2bde3db7ab26ab80f53d1679931c6b8181f51f68?/6096=EOK </p><br><br>
+<h3>消息称月之暗面考虑沪港双重上市，争取更多融资</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/9cc01ed1a28b07897602ba647bf05320e65f1112?/9744=UtQ </p><br><br>
+<h3>台积电8月份营收同比增长53% 扩厂速度空前仍难满足AI需求</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/b63d3cdb7a3a2fe617560b2f54ef26d5fcc2f078?/9997=HzS </p><br><br>
+<h3>不止 Anthropic 的 Mythos 5，欧盟机构已获准访问 OpenAI GPT-6 Astra 模型</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/88d477c319839b16644931c1acb0723e78ea298d?/1177=dfo </p><br><br>
+<h3>台积电8月营收暴涨53.3%：全球近20座厂同时开建，AI芯片产能仍“填不满”</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/64c9f65895f478b550b39847ebb178d33fb9d32f?/9239=TkW </p><br><br>
+<h3>集邦咨询：苹果首款折叠机带动供应链升级，预估今年 iPhone Duo 市占近 25%</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/4b38a47c5669a8f3433a238cd1d40e454e260909?/5658=GTn </p><br><br>
+<h3>蚂蚁CEO韩歆毅：8小时之外的智能体爆发是必然趋势</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/7a064e20b94c9a9df44406667040bd29800881f8?/7892=PHN </p><br><br>
+<h3>健康AI蚂蚁阿福最新用户数达1.5亿，首页新增健康板块入口</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/c80c428be121379c7565b0064cedf9f6e49a365a?/7849=Zvq </p><br><br>
+<h3>意大利汽车行业协会呼吁欧盟：对超额中国汽车及零部件征收 80% 关税</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/e420a332adf7547afd2754b14c1400d9ccd176cd?/5739=mXh </p><br><br>
+<h3>天猫：iPhone 18 Pro首发扩容，官旗与20多家授权店同步开卖</h3><br><p>| 来源：https://github.com/japanik/6oiYg/commit/7b718cb927de3f9bd4c3008cc3d878fc2434de50?/9796=zcY </p><br><br>
+<h3>历时数月谈判，Anthropic 向欧盟开放 Mythos 5 访问权限</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8101%E5%A8%B1%E4%B9%90%E7%BD%91%E5%9D%80-%E6%B7%B1%E5%BA%A6%E8%B4%A2%E7%BB%8F.mk?/5827 </p><br><br>
+<h3>意大利汽车零部件协会呼吁欧盟：中国汽车只能卖到8%份额 超额就加征80%关税</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8183%E5%A8%B1%E4%B9%90%E6%89%8B%E6%9C%BA%E7%89%88-36%E6%B0%AA%E7%BE%8E%E8%82%A1.mk?/0235 </p><br><br>
+<h3>依托自研大模型 美图秀秀全新上线AI助手</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A81%E5%8F%B7%E5%BA%84%E5%A8%B1%E4%B9%90%E7%BD%91%E5%9D%80-%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%96%87%E6%91%98.mk?/5069 </p><br><br>
+<h3>支持前实习生创业项目：消息称阿里拟领投 AI 评测公司 UniPat 的 3 亿美元融资</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A81%E5%8F%B7%E7%AB%99%E5%A8%B1%E4%B9%90%E7%BD%91-%E8%B1%86%E7%93%A3%E6%94%BF%E7%AD%96.mk?/7292 </p><br><br>
+<h3>支付宝设立“智能体涌现奖”：每年投入 1000 万，不会写代码也能参与</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A81%E5%8F%B7%E7%AB%99%E5%A8%B1%E4%B9%90%E7%BD%91%E7%AB%99-%E6%BE%8E%E6%B9%83%E5%9F%BA%E9%87%91.mk?/4659 </p><br><br>
+<h3>宇树科技：通用人形基础模型全面开源，代码、模型、数据集将开放</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A82026%E8%B6%B3%E7%90%83%E4%B9%B0%E7%90%83%E6%80%8E%E6%A0%B7%E4%B9%B0-%E5%85%B4%E4%B8%9A%E8%B4%A2%E7%BB%8F.mk?/5171 </p><br><br>
+<h3>摄影棚里的寒冬：ST华谊已资不抵债 光线传媒“一夜回到解放前” 北京文化电影业务入账不足22万元</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8365PG%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F%E5%AE%98%E7%BD%91-%E6%B3%A2%E5%85%B0%E8%B4%A2%E7%BB%8F.mk?/4348 </p><br><br>
+<h3>东方甄选首款自营羽绒服亮相服贸会 9月20日正式开售</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8366%E5%A8%B1%E4%B9%90%E6%8B%9B%E5%95%86-%E4%B8%96%E7%95%8C%E8%B4%A2%E7%BB%8F.mk?/3997 </p><br><br>
+<h3>万里眼发布光全场景测试解决方案，进一步拓展高端测试测量能力</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A866%E5%A8%B1%E4%B9%90%E7%BD%91%E5%9D%80-%E5%8C%97%E6%96%B9%E8%B4%A2%E7%BB%8F.mk?/4147 </p><br><br>
+<h3>银幕上的寒冬：7家院线公司业绩几乎全线“飘绿” 幸福蓝海净利暴跌629%、上海电影扣非后仍陷亏损</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A888%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90-%E9%A1%BA%E4%B8%B0%E5%BD%B1%E8%A7%86.mk?/7133 </p><br><br>
+<h3>具身智能还有哪些硬门槛？外滩大会主论坛圆桌回应“降维打击”之问</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A899%E5%A8%B1%E4%B9%90%E7%BD%91-%E8%99%8E%E5%97%85%E5%A8%B1%E4%B9%90.mk?/5711 </p><br><br>
+<h3>告别100年流水线！车自己去找工位？探秘全国唯一的“领航级”汽车工厂</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A89%E5%8F%B7%E5%BD%A9%E5%A8%B1%E4%B9%90%E7%BD%91-%E8%99%8E%E5%97%85%E5%8E%86%E5%8F%B2.mk?/9056 </p><br><br>
+<h3>蚂蚁阿福最新用户数达1.5亿 首页新增健康板块入口</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8A6%E5%A8%B1%E4%B9%90%E7%BD%91%E7%AB%99-%E8%85%BE%E8%AE%AF%E6%8E%A2%E6%BA%90.mk?/4466 </p><br><br>
+<h3>消息称美国司法部正调查英伟达与 Groq 百亿美元交易，涉嫌规避反垄断审查</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AA%E5%A8%B1%E4%B9%90%E7%BD%91%E7%AB%99-%E4%BA%AC%E4%B8%9C%E8%AE%BA%E5%9D%9B.mk?/6411 </p><br><br>
+<h3>嘀嗒出行上线诚信履约、接单行为和车况三类用户标签，进一步丰富顺风车信用画像</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%C2%B7%E7%9C%9F%E4%BA%BA%E5%9B%BD%E9%99%85%E5%AE%98%E7%BD%91-%E4%BC%98%E4%BA%AB%E8%B4%A2%E7%BB%8F.mk?/5319 </p><br><br>
+<h3>AI 智能体出现失控行为，OpenAI 呼吁美国出台强制性全国 AI 安全法规</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E5%A8%B1%E4%B9%90app%E5%AE%98%E7%BD%91-%E6%B5%B7%E4%B8%9D%E8%B4%A2%E7%BB%8F.mk?/1628 </p><br><br>
+<h3>我国核保险实现本土模型定价和人民币本币结算</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E5%AE%98%E6%96%B9%E7%99%BE%E5%AE%B6%E4%B9%90%E5%85%A5%E5%8F%A3-%E5%AE%8F%E8%BF%9C%E8%B4%A2%E7%BB%8F.mk?/6786 </p><br><br>
+<h3>启境汽车回应媒体群误发信息：工作人员操作失误，并非策划攻击、拉踩友商</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E5%B9%B3%E5%8F%B0%E6%8D%95%E9%B1%BC%E7%8E%8B%E5%A8%B1%E4%B9%90%E6%B8%B8%E6%88%8F-%E6%99%BA%E6%B1%87%E8%B4%A2%E7%BB%8F.mk?/6428 </p><br><br>
+<h3>蚂蚁集团CEO韩歆毅：做智能体商业爆发的“催化剂”</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E6%89%8B%E6%9C%BA%E7%89%88%E5%AE%98%E6%96%B9%E7%99%BB%E5%BD%95-%E6%99%BA%E6%85%A7%E8%B4%A2%E7%BB%8F.mk?/6824 </p><br><br>
+<h3>SKG与北京协和医学院签署合作协议，联合开展可穿戴设备睡眠分期及呼吸暂停检测算法研究</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E6%8D%95%E9%B1%BC%E4%B8%AD%E5%A4%A7%E5%A5%96%E8%A7%86%E9%A2%91-%E9%A1%BA%E4%B8%B0%E5%9B%BD%E9%99%85.mk?/9569 </p><br><br>
+<h3>大晓机器人联合南洋理工大学S-Lab发布Puffin-World</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E6%97%97%E8%88%B0%E5%8E%85%E5%9C%A8%E7%BA%BF-%E8%82%A1%E6%B5%B7%E8%B4%A2%E7%BB%8F.mk?/0425 </p><br><br>
+<h3>飞猪发布《2026中秋、国庆出游风向标》，长线游领涨，“松弛”“体验”成关键词</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E6%97%97%E8%88%B0%E5%8E%85%E7%99%BE%E5%AE%B6%E5%AE%B6%E4%B9%90%E7%99%BB%E5%BD%95-%E4%BF%A1%E9%82%A6%E8%B4%A2%E7%BB%8F.mk?/0338 </p><br><br>
+<h3>OPPO与佳能、索尼、华为共同加入全球影像专利许可项目Tulip Imaging</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E6%9C%80%E6%96%B0%E7%9A%84%E7%BD%91%E5%9D%80-%E8%99%8E%E6%89%91%E5%8D%83%E5%B8%86.mk?/8024 </p><br><br>
+<h3>诺奖得主警示AI教育风险：学校应保留一部分“不用AI”的学习 否则可能毁掉一代人</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E6%A3%8B%E7%89%8C%E5%AE%98%E6%96%B9%E6%B8%B8%E6%88%8F%E5%B9%B3%E5%8F%B0%E7%BD%91%E5%9D%80-%E6%96%87%E6%97%85%E8%B4%A2%E7%BB%8F.mk?/7087 </p><br><br>
+<h3>苹果等靠边站！OPPO、华为、索尼、佳能在一起 共同加入全球最大的影像专利项目</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E7%8E%B0%E9%87%91%E7%BD%91-%E4%BA%9A%E6%B4%B2%E8%B4%A2%E7%BB%8F.mk?/6023 </p><br><br>
+<h3>vivo宣布蓝图影像战略升级，X500系列定档9月21日</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E7%94%B5%E5%AD%90%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E5%A4%9A%E4%BA%BA%E7%89%88%E6%B8%B8%E6%88%8F-%E5%AE%B6%E5%BA%AD%E8%B4%A2%E7%BB%8F.mk?/6735 </p><br><br>
+<h3>源码资本合伙人张宏江：智能涌现时代，组织层面的“涌现”成核心竞争力</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E7%99%BE%E5%AE%B6%E4%B9%90%E5%93%AA%E4%B8%AA%E5%B9%B3%E5%8F%B0%E5%A5%BD-%E9%93%B6%E9%80%9A%E8%B4%A2%E7%BB%8F.mk?/5678 </p><br><br>
+<h3>蚂蚁集团CEO韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建设</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E7%99%BE%E5%AE%B6%E4%B9%90%E5%AE%98%E6%96%B9%E5%B9%B3%E5%8F%B0%E7%BD%91%E5%9D%80-%E9%98%BF%E8%81%94%E8%B4%A2%E7%BB%8F.mk?/2438 </p><br><br>
+<h3>中兴通讯徐子阳：不同能力的模型Token价值也不同，运营商计费需要考虑Token汇率差</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E7%99%BE%E5%AE%B6%E4%B9%90%E6%9C%80%E5%8E%89%E5%AE%B3%E4%B8%89%E4%B8%AA%E5%85%AC%E5%BC%8F-%E6%90%9C%E7%8B%90%E8%A7%86%E9%A2%91.mk?/3938 </p><br><br>
+<h3>小米18 Fold今日开售 史上最强折叠屏大战正式打响</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E7%99%BE%E5%AE%B6%E4%B9%90%E6%AD%A3%E8%A7%84%E5%AE%98%E7%BD%91%E7%BD%91%E5%9D%80-%E5%BE%97%E7%89%A9%E8%B4%A2%E7%BB%8F.mk?/7053 </p><br><br>
+<h3>119 元绿联 P5 自带线充电宝发布：10000mAh 22.5W，2026 新国标认证可上飞机</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E7%99%BE%E5%AE%B6%E4%B9%90%E7%8E%A9%E6%B3%95%E8%A7%84%E5%88%99%E4%BB%8B%E7%BB%8D-%E8%BF%9C%E6%B4%8B%E8%B4%A2%E7%BB%8F.mk?/4613 </p><br><br>
+<h3>美的回应洗衣机联网19小时耗411MB流量：高度重视，已完成全面技术核查</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E7%99%BE%E5%AE%B6%E4%B9%90%E7%9A%84%E7%BD%91%E5%9D%80%E6%98%AF%E4%BB%80%E4%B9%88-%E5%A4%A9%E6%B1%87%E8%B4%A2%E7%BB%8F.mk?/0990 </p><br><br>
+<h3>京东秒送：超7000家Apple授权专营店、过万个前置仓站将同步首发开售iPhone 18 Pro系列新品</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E7%99%BE%E5%AE%B6%E4%B9%90%E7%9C%9F%E4%BA%BA%E5%B9%B3%E5%8F%B0-%E5%AE%98%E6%96%B9%E8%B4%A2%E7%BB%8F.mk?/3896 </p><br><br>
+<h3>沐曦股份陈维良：高质量国产替代成为必选项，不仅聚焦GPU单卡性能，还要算经济账</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E7%99%BE%E5%AE%B6%E4%B9%90%E7%BA%BF%E4%B8%8A%E7%9A%84%E5%AE%98%E7%BD%91%E7%BD%91%E5%9D%80-%E5%B8%82%E5%9C%BA%E8%B4%A2%E7%BB%8F.mk?/0403 </p><br><br>
+<h3>苹果新机全面涨价带火二手交易，转转平台苹果手机搜索量环比增长270%</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E7%99%BE%E5%AE%B6%E5%AE%B6%E4%B9%90%E5%93%AA%E4%B8%AA%E5%8F%AF%E9%9D%A0-%E4%B8%AD%E8%B4%A2%E8%B4%A2%E7%BB%8F.mk?/1559 </p><br><br>
+<h3>千问新款AI眼镜“保密式”展出，将加入虹膜支付能力，定价或低于S1</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E7%99%BE%E5%AE%B6%E5%AE%B6%E4%B9%90%E6%B3%A8%E5%86%8C-%E4%B8%93%E6%A0%8F.mk?/5494 </p><br><br>
+<h3>诺奖得主阿吉翁：AI潜力能否转化为持续增长，取决于竞争环境和教育体系等</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E7%9A%84%E7%BD%91%E5%9D%80-%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%AE%B6.mk?/4332 </p><br><br>
+<h3>亚信科技董事长田溯宁：通讯公司价值被远远低估，智能时代运营商有望重新回归价值链</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E7%9C%9F%E4%BA%BAag%E7%BD%91%E5%9D%80%E6%98%AF%E5%A4%9A%E5%B0%91-%E4%BC%98%E9%85%B7%E5%88%8A%E7%99%BB.mk?/9016 </p><br><br>
+<h3>敢让Agent帮自己花多少钱？蚂蚁集团CEO韩歆毅变身“霸道总裁”</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E7%9C%9F%E4%BA%BA%E5%9B%BD%E9%99%85%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%99-%E7%BE%8E%E6%B4%B2%E8%B4%A2%E7%BB%8F.mk?/7327 </p><br><br>
+<h3>校企联合完成三维粘性挂谷猜想形式化验证</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E7%9C%9F%E4%BA%BA%E5%9C%A8%E7%BA%BF-%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%8E%BF%E5%9F%9F.mk?/7029 </p><br><br>
+<h3>李想：理想汽车终于迈过三重难关，i9 将是第二代纯电平台的首发旗舰</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E7%9C%9F%E4%BA%BA%E6%97%97%E8%88%B0%E5%8E%85%E5%AE%98%E6%96%B9%E7%BD%91%E5%9D%80-%E5%A4%B4%E6%9D%A1%E5%9C%B0%E6%96%B9.mk?/9893 </p><br><br>
+<h3>阿里巴巴周靖人现身外滩大会，周靖人：模型不理解个人是因为缺少上下文</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E7%9C%9F%E4%BA%BA%E6%B8%B8%E6%88%8F%E5%AE%98%E7%BD%91-%E6%BE%8E%E6%B9%83%E7%BA%AA%E5%AE%9E.mk?/2096 </p><br><br>
+<h3>央采大单被海光承包了！46%份额碾压全场：浪潮963万登顶、华为第二</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E7%9C%9F%E4%BA%BA%E6%B8%B8%E6%88%8F%E6%80%8E%E4%B9%88%E7%8E%A9-%E7%9F%A5%E4%B9%8E%E5%81%A5%E5%BA%B7.mk?/3280 </p><br><br>
+<h3>努比亚张雷：苹果做屏下摄像头挺好，也佐证我们 7 年前坚持的方向是对的</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E7%9C%9F%E4%BA%BA%E7%94%B5%E5%AD%90%E8%80%81%E8%99%8E%E6%9C%BA-%E6%96%B0%E6%B5%AA%E5%AE%A0%E7%89%A9.mk?/6740 </p><br><br>
+<h3>蚂蚁CEO韩歆毅：蚂蚁希望帮更多商家开发Agent，让他们能被用户找到</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E7%9C%9F%E4%BA%BA%E7%99%BE%E5%AE%B6%E4%B9%90%E5%B9%B3%E5%8F%B0-%E5%85%B1%E4%BA%AB%E8%B4%A2%E7%BB%8F.mk?/2580 </p><br><br>
+<h3>璇玑动力IFA上宣布开放生态，瞄准欧洲机器人规模化落地</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8AG%E7%9C%9F%E4%BA%BA%E7%BD%91%E9%A1%B5%E7%89%88-%E5%BF%85%E5%BA%94%E6%8E%A2%E6%BA%90.mk?/1667 </p><br><br>
+<h3>小岛秀夫回应《PHYSINT》游戏转投微软合作：索尼今年 6 月突然通知取消开发</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8Ag%E7%9C%9F%E4%BA%BA%E6%BE%B3%E9%97%A8%E7%99%BE%E5%AE%B6%E5%AE%B6%E4%B9%90-%E5%98%89%E5%8D%8E%E8%B4%A2%E7%BB%8F.mk?/5005 </p><br><br>
+<h3>施耐德电气亮相服贸会，发布“全生命周期一站式服务”及创新成果</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8A%E5%BD%A9%E5%A8%B1%E4%B9%90%E7%BD%91-%E8%85%BE%E8%BE%BE%E8%B4%A2%E7%BB%8F.mk?/8497 </p><br><br>
+<h3>蚂蚁集团CEO韩歆毅自曝使用阿福买零食，还喊话感谢淘宝闪购</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8BA%E5%A8%B1%E4%B9%90%E6%8B%9B%E5%95%86-36%E6%B0%AA%E6%95%B0%E8%AF%BB.mk?/0782 </p><br><br>
+<h3>华为阔直板机型首销当日销售超18万台</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8BA%E5%A8%B1%E4%B9%90%E7%BD%91-%E7%91%9E%E5%85%B8%E8%B4%A2%E7%BB%8F.mk?/5566 </p><br><br>
+<h3>千问新款AI眼镜现身外滩大会，或加入虹膜支付能力</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8BDB%E5%A8%B1%E4%B9%90%E5%B9%B3%E5%8F%B0-%E8%B1%86%E7%93%A3%E6%94%BF%E5%8D%8F.mk?/3847 </p><br><br>
+<h3>中国联通董事长董昕：反对恶性竞争，更要避开同质化竞争</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8BG%E5%A4%A7%E9%81%8A%E7%9C%9F%E4%BA%BA%E5%9C%A8%E7%BA%BF%E5%A8%B1%E4%B9%90-%E9%A1%BA%E4%B8%B0%E6%94%BF%E5%8D%8F.mk?/3782 </p><br><br>
+<h3>10.18 万元广汽埃安 RT 605 智享版上市：非晶合金电驱 + 碳化硅电控 + 宁德时代电池</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8BG%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E6%80%8E%E4%B9%88%E4%B8%8B%E8%BD%BD-%E8%B4%A2%E7%BB%8F%E4%B8%AD%E5%BF%83.mk?/4723 </p><br><br>
+<h3>全球首款阔直板手机华为 Pura X View 首销当日销售超 18 万台</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8BG%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97-%E5%BE%97%E7%89%A9%E7%BB%BC%E8%89%BA.mk?/2695 </p><br><br>
+<h3>阿维塔陈卓回应 9 系旗舰 SUV“不太阿维塔”，称品牌设计将推进双谱系方案</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8BK%E5%A8%B1%E4%B9%90%E6%8B%9B%E5%95%86-%E8%84%89%E8%84%89%E8%81%8C%E5%9C%BA.mk?/0596 </p><br><br>
+<h3>iPhone 18 Pro 系列新品首发上线淘宝闪购</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8CQ9%E5%A4%A7%E7%9C%9F%E4%BA%BA%E5%9C%A8%E7%BA%BF%E5%A8%B1%E4%B9%90-%E4%B8%9C%E4%BA%AC%E8%B4%A2%E7%BB%8F.mk?/0359 </p><br><br>
+<h3>天气通在阿里百炼AI平台天气垂类MCP调用排名第一，超墨迹天气7倍</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8CQ9%E5%A4%A7%E9%81%8A%E7%9C%9F%E4%BA%BA%E5%9C%A8%E7%BA%BF%E5%A8%B1%E4%B9%90-%E5%93%A5%E4%BC%A6%E8%B4%A2%E7%BB%8F.mk?/2760 </p><br><br>
+<h3>vivo X500「晴天」 开箱：最耐看的那一抹白</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8CQ9%E5%A4%A7%E9%81%8A%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E8%B5%8C-%E9%87%8D%E5%BA%86%E6%99%9A%E6%8A%A5.mk?/9331 </p><br><br>
+<h3>高德回应“扫雷榜”传闻：正式发布“避雷指南1.0”</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8CQ9%E7%9C%9F%E4%BA%BA%E5%8E%85%E5%A8%B1%E4%B9%90%E9%A6%96%E9%80%89-%E5%93%94%E5%93%A9.mk?/2629 </p><br><br>
+<h3>日系三强8月在华销量出炉：日产、本田双双腰斩，丰田也扛不住了</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8CQ9%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90app%E4%B8%8B%E8%BD%BD-%E8%82%AF%E5%B0%BC%E8%B4%A2%E7%BB%8F.mk?/9246 </p><br><br>
+<h3>小米 18 Pro Max 新机现身 Geekbench，搭载高通第六代骁龙 8 超级至尊版</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8CQ9%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E5%8E%85%E5%93%AA%E9%87%8C%E6%9C%89-%E7%83%AD%E9%97%A8%E8%B4%A2%E7%BB%8F.mk?/6380 </p><br><br>
+<h3>启境GX7开启预售：搭载华为七大汽车智能化解决方案，预售价24.99万元起</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8CQ9%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E5%A4%A7%E5%8E%85%E5%9C%A8%E5%93%AA-%E5%9B%BD%E4%BF%A1%E8%B4%A2%E7%BB%8F.mk?/2587 </p><br><br>
+<h3>星宇股份再现重大财报失误：外包费用2.44万亿元，达年营收184倍</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8CQ9%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E5%B9%B3%E5%8F%B0%E6%8E%A8%E8%8D%90-%E5%A8%B1%E4%B9%90%E4%B8%AD%E5%BF%83.mk?/2842 </p><br><br>
+<h3>苹果发布会嘉宾阵容出圈：段永平到场，五月天阿信晒和新任CEO合照</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8DB%E4%BB%8A%E5%B9%B4%E4%BC%9A%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90-%E4%B8%AD%E6%AC%A7%E8%B4%A2%E7%BB%8F.mk?/7831 </p><br><br>
+<h3>苹果发了首款折叠屏iPhone，却让人更怀念乔布斯了</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8DB%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E5%BC%80%E6%88%B7-%E8%B4%A2%E7%BB%8F%E5%8A%A8%E6%80%81.mk?/5775 </p><br><br>
+<h3>苹果华为小米72小时对决：万元旗舰扎堆登场，手机迎涨价潮拐点</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8DB%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E6%80%8E%E4%B9%88%E4%B8%8B%E8%BD%BD%E4%B8%8D%E4%BA%86-%E8%B4%A2%E6%99%BA%E8%B4%A2%E7%BB%8F.mk?/3258 </p><br><br>
+<h3>分析师看好苹果折叠屏手机 但认为公司利润率面临风险</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8DB%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E6%98%AF%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF-%E9%BC%8E%E5%AF%8C%E8%B4%A2%E7%BB%8F.mk?/2940 </p><br><br>
+<h3>3分钟速看苹果秋季发布会：iPhone Duo压轴登场！</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8DB%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E6%98%AF%E5%B9%B2%E5%98%9B%E7%9A%84-%E8%81%9A%E7%84%A6%E8%B4%A2%E7%BB%8F.mk?/0783 </p><br><br>
+<h3>新Apple Watch现场上手：给身体全面打分</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8DB%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E6%9C%89%E4%BD%9C%E5%BC%8A%E5%90%97-%E9%87%91%E7%9B%88%E8%B4%A2%E7%BB%8F.mk?/5511 </p><br><br>
+<h3>iPhone 18 Pro Max 现场上手：勃艮第酒红哑光质感有多高级？</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8DB%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E7%BA%BF%E4%B8%8A%E8%B5%8C%E5%8D%9A-%E8%B4%A2%E7%BB%8F%E7%B2%BE%E9%80%89.mk?/7528 </p><br><br>
+<h3>iPhone Duo 现场上手 “多” 屏 iPhone 还用吗？</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8DB%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E9%93%BE%E6%8E%A5%E5%9C%A8%E5%93%AA%E7%9C%8B-%E6%B2%BF%E6%B5%B7%E8%B4%A2%E7%BB%8F.mk?/7354 </p><br><br>
+<h3>苹果秋季新品发布会：库克交棒，一部能对折的 iPhone 压轴登场</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8EVO%E5%A4%A7%E6%B8%B8%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E5%85%85%E5%80%BC-%E8%99%8E%E6%89%91%E5%9B%BE%E9%89%B4.mk?/4104 </p><br><br>
+<h3>苹果首款折叠屏手机10月开售 iPhone迎来史上最大设计变化</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8EVO%E5%A4%A7%E9%81%A8%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90-%E5%BF%AB%E6%89%8B%E5%9B%9E%E6%94%BE.mk?/4591 </p><br><br>
+<h3>苹果iPhone 18 Pro国行售价9999元起，iPhone 18 Pro Max国行售价10999元起，9月12日开启预购</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8EVO%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90-%E8%A7%82%E5%AF%9F%E8%B4%A2%E7%BB%8F.mk?/1347 </p><br><br>
+<h3>苹果折叠屏手机iPhone Duo国行售价15999元起，10月16日开启预购</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8EVO%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E5%AE%A4-%E7%99%BE%E5%BA%A6.mk?/3333 </p><br><br>
+<h3>苹果发布首款折叠屏iPhone 起售价1999美元</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8EVO%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E9%93%BE%E6%8E%A5%E5%9C%A8%E5%93%AA%E6%89%BE-%E4%BF%A1%E6%B3%B0%E8%B4%A2%E7%BB%8F.mk?/9495 </p><br><br>
+<h3>苹果新CEO介绍首款折叠iPhone</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8EVO%E7%9C%9F%E4%BA%BA%E6%B8%B8%E6%88%8F%E5%A8%B1%E4%B9%90%E4%BA%9A%E5%8D%9A-%E7%99%BE%E5%BA%A6%E7%BA%AA%E5%AE%9E.mk?/3629 </p><br><br>
+<h3>苹果发布苹果手表Series 12 和 Ultra 4</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8EWIN%E5%A8%B1%E4%B9%90%E7%BD%91-%E7%95%8C%E9%9D%A2%E6%B3%95%E6%B2%BB.mk?/3028 </p><br><br>
+<h3>探营2026外滩大会：AI开始有了真实的“体温”</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8E%E6%B8%B8%E5%A8%B1%E4%B9%90%E6%89%8B%E6%9C%BA%E7%89%88-%E5%9C%A8%E7%BA%BF%E8%B4%A2%E7%BB%8F.mk?/3141 </p><br><br>
+<h3>苹果发布AirPods 5 售价129美元</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8E%E8%B7%AF%E5%8F%91%E5%A8%B1%E4%B9%90%E7%BD%91%E7%AB%99-%E4%B8%AD%E5%9B%BD%E7%A8%8E%E5%8A%A1%E7%BD%91.mk?/2980 </p><br><br>
+<h3>苹果iPhone 18 Pro和iPhone 18 Max和前一代相比涨价100美元</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8IG%E5%A8%B1%E4%B9%90-%E8%B0%B7%E6%AD%8C%E6%96%87%E5%8C%96.mk?/0949 </p><br><br>
+<h3>苹果：iPhone 18 Pro与iPhone 18 Pro Max电池续航大幅提升</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8K5%E5%A8%B1%E4%B9%90%E7%99%BB%E5%BD%95-%E9%A1%BA%E4%B8%B0%E9%97%AE%E5%8D%B7.mk?/6442 </p><br><br>
+<h3>深夜，DeepSeek崩了</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8MG%E5%A4%A7%E6%B8%B8%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E4%B8%8B%E8%BD%BD-%E8%A1%8C%E4%B8%9A%E8%B4%A2%E7%BB%8F.mk?/8706 </p><br><br>
+<h3>苹果发布A20Pro芯片</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8MG%E6%89%8B%E6%B8%B8%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90-%E9%87%91%E7%89%9B%E8%B4%A2%E7%BB%8F.mk?/1964 </p><br><br>
+<h3>苹果新CEO亮相：我们只想创造对人们生活产生有意义影响的产品</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8MG%E7%9C%9F%E4%BA%BA%E5%A8%B1MG%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90-%E8%B4%A2%E7%BB%8F%E5%91%A8%E5%88%8A.mk?/2519 </p><br><br>
+<h3>苹果新CEO发布新一代Pro机型：iPhone 18 Pro与iPhone 18 Pro Max</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8MG%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E5%8E%85%E7%8A%AF%E6%B3%95%E5%90%97-%E7%9F%A5%E8%AF%86%E8%B4%A2%E7%BB%8F.mk?/4536 </p><br><br>
+<h3>苹果新CEO即将首秀 库克现身发布会现场</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8MG%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E5%8E%85%E7%AE%97%E8%B5%8C%E5%8D%9A%E5%90%97-%E6%96%87%E6%97%85%E8%B4%A2%E7%BB%8F.mk?/3706 </p><br><br>
+<h3>苹果杀入折叠屏赛道！三星率先表态：欢迎入场</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8MG%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E6%80%8E%E4%B9%88%E4%B8%8B%E8%BD%BD-%E5%93%81%E7%89%8C%E8%B4%A2%E7%BB%8F.mk?/1943 </p><br><br>
+<h3>曝GTA 5安卓版移植项目正在推进：骁龙865及以上处理器就能玩</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8MG%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97-%E9%87%91%E8%9E%8D%E8%B4%A2%E7%BB%8F.mk?/4566 </p><br><br>
+<h3>华为三星已经入行7年！苹果现在才做折叠屏晚吗</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8MG%E7%9C%9F%E4%BA%BA%E6%B8%B8%E6%88%8F%E5%A8%B1%E4%B9%90-%E9%87%91%E7%91%9E%E8%B4%A2%E7%BB%8F.mk?/4392 </p><br><br>
+<h3>日产 8 月暴跌 51.9%，与丰田、本田三家在华新车销量连续 5 个月同比下滑</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8PA%E5%A4%A7%E9%81%8A%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E6%80%8E%E6%A0%B7-%E8%99%8E%E5%97%85%E5%AE%B6%E7%94%B5.mk?/7359 </p><br><br>
+<h3>GPUStack CEO秦小康：AI基础设施涉及多个环节，一家公司不可能包揽所有</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8PA%E5%A4%A7%E9%81%8A%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E8%B5%8C-%E7%88%B1%E5%A5%87%E8%89%BA%E6%8A%95%E7%A8%BF.mk?/0882 </p><br><br>
+<h3>iPhone Duo还没开卖就爆火：货量稀少 黄牛坐不住了</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8PA%E7%9C%9F%E4%BA%BA%E5%8E%85%E5%A8%B1%E4%B9%90%E9%A6%96%E9%80%89-%E5%A4%AE%E8%A7%86%E8%A7%82%E7%82%B9.mk?/6691 </p><br><br>
+<h3>记忆张量宣布完成新一轮融资：东方富海领投，将加大投入记忆原生模型Metis</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8PA%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90app%E4%B8%8B%E8%BD%BD-%E5%9B%BD%E7%91%9E%E8%B4%A2%E7%BB%8F.mk?/1507 </p><br><br>
+<h3>美国股指期货温和走低 苹果重磅发布会前股价小幅下跌</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8PA%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E5%8E%85%E5%93%AA%E9%87%8C%E6%9C%89-%E8%85%BE%E8%AE%AF%E9%9F%B3%E4%B9%90.mk?/7226 </p><br><br>
+<h3>问界汽车：全新一代 M9 连续 3 个月蝉联 50 万以上销量 TOP1</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8PA%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E5%A4%A7%E5%8E%85%E5%9C%A8%E5%93%AA-%E8%85%BE%E8%AE%AF%E7%9E%AD%E6%9C%9B.mk?/2746 </p><br><br>
+<h3>亚马逊首次发行四部分英镑债 据悉已获逾116.5亿英镑认购</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8PA%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E5%B9%B3%E5%8F%B0%E6%8E%A8%E8%8D%90-%E4%B8%AD%E8%B5%A2%E8%B4%A2%E7%BB%8F.mk?/6815 </p><br><br>
+<h3>韩国国家超算 6 号机 12 月投运：理论算力是现有 5 号机 24 倍，性能剑指全球前十</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8PA%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E9%93%BE%E6%8E%A5%E5%9C%A8%E5%93%AA%E7%9C%8B-%E6%99%BA%E8%B5%A2%E8%B4%A2%E7%BB%8F.mk?/8261 </p><br><br>
+<h3>AI可以打车了，它是网约车的新入口还是新噱头？</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8PG%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E8%B5%A2-%E9%9B%85%E8%99%8E%E5%9B%BE%E9%89%B4.mk?/7666 </p><br><br>
+<h3>对话复宏汉霖朱俊：体系出海要拿“长线收益”，2030年创新药收入将反超生物类似药</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8PP%E4%BB%8A%E5%B9%B4%E4%BC%9A%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90-%E8%8A%92%E6%9E%9C%E6%9B%B2%E8%89%BA.mk?/6362 </p><br><br>
+<h3>荣耀Magic9亮相威尼斯国际电影节，全新配色首次对外曝光</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8PP%E5%A4%A7%E9%81%8A%E7%9C%9F%E4%BA%BA%E5%9C%A8%E7%BA%BF%E5%A8%B1%E4%B9%90-%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%AE%B6%E7%94%B5.mk?/8736 </p><br><br>
+<h3>华为麒麟9050 Pro开辟国产芯片全新赛道 网友：韬定律终于亮剑了</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8PP%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E5%BC%80%E6%88%B7-%E4%BA%AC%E4%B8%9C%E6%96%87%E5%BA%93.mk?/9090 </p><br><br>
+<h3>消息称鸿蒙智行问界 M9 Ultimate 领世加长版先行者将于 9 月 12 日交付</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8PP%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E6%80%8E%E4%B9%88%E4%B8%8B%E8%BD%BD%E4%B8%8D%E4%BA%86-%E8%B4%A2%E7%BB%8F%E4%BA%BA%E7%89%A9.mk?/1205 </p><br><br>
+<h3>滴滴网约公交覆盖近20城服务近300万人次，00后用户占比超三成</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8PP%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E6%98%AF%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF-%E5%A4%AE%E8%A7%86%E6%9C%AD%E8%AE%B0.mk?/8326 </p><br><br>
+<h3>消息称折叠屏限制了首款逻辑折叠 τ 芯片发挥，最佳性能设备得等华为 Mate 90 Pro Max</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8PP%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E6%98%AF%E5%B9%B2%E5%98%9B%E7%9A%84-%E5%8D%97%E7%BE%8E%E8%B4%A2%E7%BB%8F.mk?/9402 </p><br><br>
+<h3>联想联合IDC发布《AI主机》白皮书，定义“边缘新物种”</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8PP%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E6%9C%89%E4%BD%9C%E5%BC%8A%E5%90%97-%E4%B8%8A%E5%B8%82%E8%B4%A2%E7%BB%8F.mk?/1830 </p><br><br>
+<h3>上汽大众：奥迪 E7X 上市百日销售破万台，第四季度将 OTA 升级奥迪世界模型全景辅助驾驶</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8PP%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E7%BA%BF%E4%B8%8A%E8%B5%8C%E5%8D%9A-%E4%BA%AC%E4%B8%9C%E5%85%9A%E5%BB%BA.mk?/7064 </p><br><br>
+<h3>“北大系”3D芯片公司拿下10亿融资！三维存算一体AI芯片量产在即：算力密度暴增6倍</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8SKY%E5%A8%B1%E4%B9%90%E7%BD%91%E7%AB%99-%E6%8A%96%E9%9F%B3%E4%BF%9D%E9%99%A9.mk?/0525 </p><br><br>
+<h3>古尔曼：苹果 iPhone 18 Pro 将搭载更小的灵动岛，支持显示三个实时活动</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8T6%E5%A8%B1%E4%B9%90-%E8%B4%A2%E7%BB%8F%E5%89%8D%E7%9E%BB.mk?/2900 </p><br><br>
+<h3>又是内存短缺惹的祸 手机芯片出货量均同比下滑超30%</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8T%E5%8D%9A%E5%A8%B1%E4%B9%90%E7%BD%91-360%E4%B8%93%E6%A0%8F.mk?/6620 </p><br><br>
+<h3>白酒半年报|水井坊12年来首次半年度亏损 现金大降有息负债高企原因为何？</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8U%E5%AE%9D%E5%A8%B1%E4%B9%90-%E8%8D%A3%E8%80%80%E8%B4%A2%E7%BB%8F.mk?/0163 </p><br><br>
+<h3>智象未来vivago R1全球上线，国内版本“够搭”全新升级发布</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8ag%E4%B9%9D%E6%B8%B8%E8%80%81%E5%93%A5%E4%BF%B1%E4%B9%90%E9%83%A8-%E9%A2%86%E8%88%AA%E8%B4%A2%E7%BB%8F.mk?/2384 </p><br><br>
+<h3>联想来酷斗战者 AI NAS 900 系列私有云主机上架：飞牛 fnOS 系统，6999 元起</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8ag%E5%A8%B1%E4%B9%90-%E5%93%94%E5%93%A9%E5%9F%8E%E4%BA%8B.mk?/0980 </p><br><br>
+<h3>新能源车还有驾驶乐趣吗 智界赵长江：需做到人车同频</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8ag%E5%A8%B1%E4%B9%90%E6%89%8B%E6%9C%BA%E7%89%88app-%E7%8E%AF%E7%90%83%E8%B4%A2%E7%BB%8F.mk?/5393 </p><br><br>
+<h3>iPhone新品将在美团闪购同步首发 现货最快30分钟送达</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8ag%E5%AE%98%E7%BD%91%E6%B3%A8%E5%86%8C%E7%BD%91%E5%9D%80-%E9%98%BF%E6%9B%BC%E8%B4%A2%E7%BB%8F.mk?/2075 </p><br><br>
+<h3>中国社科院教授江小涓：企业不能等到准备出海，才开始补全球化能力</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8ag%E6%8D%95%E9%B1%BCag%E6%97%97%E8%88%B0%E5%8E%85%E4%B8%8B%E8%BD%BD-%E5%A2%A8%E8%A5%BF%E8%B4%A2%E7%BB%8F.mk?/0310 </p><br><br>
+<h3>中国社科院教授江小涓：新生创业者进入“生而为全球”时代</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8ag%E6%8D%95%E9%B1%BC%E4%B9%90%E5%9B%AD%E6%94%BB%E7%95%A5%E5%8F%8A%E6%8A%80%E5%B7%A7-%E7%BB%8F%E6%B5%8E%E8%B4%A2%E7%BB%8F.mk?/9315 </p><br><br>
+<h3>Uber首次进军欧元债市场 拟分五部分发行债券</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8ag%E6%8D%95%E9%B1%BC%E5%B9%B3%E5%8F%B0-%E5%90%AF%E6%98%8E%E8%B4%A2%E7%BB%8F.mk?/1109 </p><br><br>
+<h3>谷歌计划在芬兰投入130亿欧元用于AI设施 为其在欧洲最大单笔投资</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8ag%E6%8D%95%E9%B1%BC%E7%8E%8B%E6%80%8E%E4%B9%88%E6%8A%80%E5%B7%A7-%E8%B4%A2%E7%BB%8F%E6%8C%87%E5%8D%97.mk?/0276 </p><br><br>
+<h3>巴克莱：能源、利率与政治因素拖累，欧洲股市涨势停滞</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8ag%E6%8D%95%E9%B1%BC%E7%8E%8B%E7%A8%8B%E5%BA%8F%E6%8F%AD%E7%A7%98-%E4%B8%9C%E4%BA%9A%E8%B4%A2%E7%BB%8F.mk?/5027 </p><br><br>
+<h3>Meta推出个人AI智能体Muse 可代用户处理日常事务</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8ag%E6%B8%B8%E6%88%8F-%E8%B4%A2%E7%BB%8F%E7%9B%98%E7%82%B9.mk?/2887 </p><br><br>
+<h3>曝DeepSeek备战科创板IPO，知情人士：消息属实</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8ag%E7%9C%9F%E4%BA%BAapp%E6%B3%A8%E5%86%8C-%E6%BE%B3%E4%BA%9A%E8%B4%A2%E7%BB%8F.mk?/6591 </p><br><br>
+<h3>蚂蚁CEO韩歆毅：AI的价值最终要由真实增长来检验</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8ag%E7%9C%9F%E4%BA%BA%E4%BA%A4%E6%B5%81%E7%BD%91%E5%9D%80-%E4%BA%9A%E9%A9%AC%E9%80%8A%E4%BF%A1%E6%89%98.mk?/3433 </p><br><br>
+<h3>京东七鲜小厨智能移动餐车亮相服贸会</h3><br><p>| 来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8ag%E7%9C%9F%E4%BA%BA%E4%BD%93%E8%82%B2%E6%B3%A8%E5%86%8C-%E4%B8%AD%E4%B8%9C%E8%B4%A2%E7%BB%8F.mk?/9845 </p><br><br>
+<h3>手机SoC最新份额出炉：联发科第一 海思稳步上涨</h3><br><p>|来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8ag%E7%9C%9F%E4%BA%BA%E5%85%A5%E5%8F%A3%E7%BD%91%E5%9D%80-%E6%9E%81%E9%80%9F%E8%B4%A2%E7%BB%8F.mk?/9639 </p><br><br>
+<h3>蚂蚁CEO韩歆毅：AI毫无疑问是当前经济社会最重要的变量之一</h3><br><p>|来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8ag%E7%9C%9F%E4%BA%BA%E5%90%84%E5%A4%A7%E5%B9%B3%E5%8F%B0-%E7%9B%88%E5%AF%8C%E8%B4%A2%E7%BB%8F.mk?/0187 </p><br><br>
+<h3>车企公关误发“小米澎程攻防需求”，媒体群被紧急解散</h3><br><p>|来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8ag%E7%9C%9F%E4%BA%BA%E5%9C%A8%E7%BA%BF%E7%BD%91%E5%9D%80-%E6%A0%B8%E5%BF%83%E8%B4%A2%E7%BB%8F.mk?/8149 </p><br><br>
+<h3>DeepSeek被曝拟科创板IPO 已聘请中信证券筹备 最新估值或达5000亿</h3><br><p>|来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8ag%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E4%B8%8B%E8%BD%BD-%E4%B8%AD%E9%93%B6%E8%B4%A2%E7%BB%8F.mk?/8992 </p><br><br>
+<h3>iPhone Duo首批货源稀缺：黄牛渠道溢价空间巨大 抢到赚到</h3><br><p>|来源：https://github.com/jerrybell1/eosFI5/blob/main/files886/%E6%83%981296%E4%B8%B6VIP%E4%B8%A8ag%E7%9C%9F%E4%BA%BA%E5%A8%B1%E4%B9%90%E5%B9%B3%E5%8F%B0%E7%BD%91%E5%9D%80-%E6%96%B0%E6%B5%AA%E9%80%9F%E8%A7%88.mk?/7755 </p><br><br>
